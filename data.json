@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "RE19X",
-      "destination": "Wesel",
+      "destination": "Oberhausen-Wesel",
       "stops": [
         { "id": "RE19X-1", "name": "Oberhausen Hauptbahnhof", "lat": 52.509, "lon": 13.228, "announcementUrl": "/sounds/ruhleben.mp3" },
         { "id": "RE19X-2", "name": "Wesel Bahnhof", "lat": 52.513, "lon": 13.239, "announcementUrl": "/sounds/olympia-stadion.mp3" }
