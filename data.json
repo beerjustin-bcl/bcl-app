@@ -1,1 +1,25 @@
-
+{
+  "lines": [
+    {
+      "id": "1",
+      "name": "U2",
+      "destination": "Pankow",
+      "stops": [
+        { "id": "u2-1", "name": "Ruhleben", "lat": 52.509, "lon": 13.228, "announcementUrl": "/sounds/ruhleben.mp3" },
+        { "id": "u2-2", "name": "Olympia-Stadion", "lat": 52.513, "lon": 13.239, "announcementUrl": "/sounds/olympia-stadion.mp3" }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "M10",
+      "destination": "Hauptbahnhof",
+      "stops": [
+        { "id": "m10-1", "name": "Warschauer Straße", "lat": 52.505, "lon": 13.449, "announcementUrl": "/sounds/warschauer-strasse.mp3" }
+      ]
+    }
+  ],
+  "specialAnnouncements": [
+    { "id": "sa-1", "text": "Bitte zurückbleiben", "announcementUrl": "/sounds/special/zurueckbleiben.mp3" },
+    { "id": "sa-2", "text": "Endhaltestelle", "announcementUrl": "/sounds/special/endhaltestelle.mp3" }
+  ]
+}
