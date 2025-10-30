@@ -2,11 +2,11 @@
   "lines": [
     {
       "id": "1",
-      "name": "U2",
-      "destination": "Pankow",
+      "name": "RE19X",
+      "destination": "Wesel",
       "stops": [
-        { "id": "u2-1", "name": "Ruhleben", "lat": 52.509, "lon": 13.228, "announcementUrl": "/sounds/ruhleben.mp3" },
-        { "id": "u2-2", "name": "Olympia-Stadion", "lat": 52.513, "lon": 13.239, "announcementUrl": "/sounds/olympia-stadion.mp3" }
+        { "id": "RE19X-1", "name": "Oberhausen Hauptbahnhof", "lat": 52.509, "lon": 13.228, "announcementUrl": "/sounds/ruhleben.mp3" },
+        { "id": "RE19X-2", "name": "Wesel Bahnhof", "lat": 52.513, "lon": 13.239, "announcementUrl": "/sounds/olympia-stadion.mp3" }
       ]
     },
     {
