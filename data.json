@@ -52,7 +52,8 @@
          { "id": "XNL-1", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "XNL-2", "name": "Wesel", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/olympia-stadion.mp3" },
          { "id": "XNL-3", "name": "Emmerich", "lat": 51.8336506, "lon": 6.2549007, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-         { "id": "XNL-4", "name": "Arnhem Central", "lat": 51.9835483, "lon": 5.9001715, "announcementUrl": "/sounds/olympia-stadion.mp3" }  
+         { "id": "XNL-4", "name": "Arnhem Central", "lat": 51.9835483, "lon": 5.9001715, "announcementUrl": "/sounds/olympia-stadion.mp3" } 
+       ]  
     },
     {
        "id": "6",
