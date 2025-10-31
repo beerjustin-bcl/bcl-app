@@ -86,7 +86,7 @@
          { "id": "RE19L-13", "name": "Millingen", "lat": 51.809371, "lon": 6.399873, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "RE19L-14", "name": "Praest Kirche", "lat": 51.821331, "lon": 6.339867, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "RE19L-15", "name": "Emmerich", "lat": 51.8336506, "lon": 6.2549007, "announcementUrl": "/sounds/olympia-stadion.mp3" }
-   },
+    },
   ],
   "specialAnnouncements": [
     { "id": "sa-1", "text": "Bitte zurückbleiben", "announcementUrl": "/sounds/special/zurueckbleiben.mp3" },
