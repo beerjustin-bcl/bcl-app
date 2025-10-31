@@ -66,6 +66,21 @@
          { "id": "XNL-4", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" }
       ]
     },
+    {
+        "id": "7",
+        "name": "RE19L", 
+        "destination": "Oberhausen-Emmerich", 
+        "stops": [
+         { "id": "RE19L-1", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19L-2", "name": "OB Sterkrade", "lat": 51.512022, "lon": 684436, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19L-3", "name": "OB Holten", "lat": 51.534056488324524, "lon": 6.809986748979696, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19L-4", "name": "Dinslaken", "lat": 51.56680321489091, "lon": 6.73674948095362, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19L-5", "name": "Voerde", "lat": 51.59814789549506, "lon": 6.690545747606961, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19L-6", "name": "Friedrichsfeld", "lat": 51.622373, "lon": 6.651855, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19L-7", "name": "Friedrichsfeld Post", "lat": 51.62799348437696, "lon": 6.650489540813595, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19L-8", "name": "Wesel (Friedenstr.)", "lat": 51.6562, "lon": 6.628167, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19L-9", "name": "Wesel Feldmark", "lat": 51.675432041096286, "lon": 6.60915235097292, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19L-10","name": "Mehrhoog", "lat": 51.739290395499296, "lon": 6.516616908759403, "announcementUrl": "/sounds/ruhleben.mp3" },
   ],
   "specialAnnouncements": [
     { "id": "sa-1", "text": "Bitte zurückbleiben", "announcementUrl": "/sounds/special/zurueckbleiben.mp3" },
