@@ -5,18 +5,35 @@
       "name": "RE19X",
       "destination": "Oberhausen-Wesel",
       "stops": [
-        { "id": "RE19X-1", "name": "Oberhausen Hauptbahnhof", "lat": 52.509, "lon": 13.228, "announcementUrl": "/sounds/ruhleben.mp3" },
-        { "id": "RE19X-2", "name": "Wesel Bahnhof", "lat": 52.513, "lon": 13.239, "announcementUrl": "/sounds/olympia-stadion.mp3" }
+        { "id": "RE19X-1", "name": "Oberhausen Hauptbahnhof", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" },
+        { "id": "RE19X-2", "name": "Wesel Bahnhof", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/olympia-stadion.mp3" }
       ]
     },
     {
-      "id": "3",
-      "name": "M10",
-      "destination": "Hauptbahnhof",
+      "id": "2",
+      "name": "RE19X",
+      "destination": "Wesel-Oberhausen",
       "stops": [
-        { "id": "m10-1", "name": "Warschauer Straße", "lat": 52.505, "lon": 13.449, "announcementUrl": "/sounds/warschauer-strasse.mp3" }
+        { "id": "RE19X-1", "name": "Wesel Bahnhof", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/olympia-stadion.mp3" },
+        { "id": "RE19X-", "name": "Oberhausen Hauptbahnhof", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" }
       ]
-    }
+    },
+    {
+       "id": "3",
+       "name": "RE19X", 
+       "destination": "Oberhausen-Wesel", 
+       "stops": [
+         { "id": "RE19X-1", "name": "Oberhausen Hauptbahnhof", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19X-2", "name": "Wesel Bahnhof", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/olympia-stadion.mp3" }
+      ]
+    },
+    {
+
+
+    
+
+  
+
   ],
   "specialAnnouncements": [
     { "id": "sa-1", "text": "Bitte zurückbleiben", "announcementUrl": "/sounds/special/zurueckbleiben.mp3" },
