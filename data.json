@@ -30,7 +30,7 @@
          { "id": "RE19X-5", "name": "Zevenaar", "lat": 51.9234546, "lon": 6.0729815, "announcementUrl": "/sounds/olympia-stadion.mp3" }
          { "id": "RE19X-6", "name": "Arnhem Central", "lat": 51.9835483, "lon": 5.9001715, "announcementUrl": "/sounds/olympia-stadion.mp3" }
       ]
-    },
+    }
   ],
   "specialAnnouncements": [
     { "id": "sa-1", "text": "Bitte zurückbleiben", "announcementUrl": "/sounds/special/zurueckbleiben.mp3" },
