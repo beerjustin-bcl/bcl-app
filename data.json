@@ -24,10 +24,10 @@
        "destination": "Oberhausen-Arnhem", 
        "stops": [
          { "id": "RE19X-1", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19X-2", "name": "Wesel", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/olympia-stadion.mp3" }
-         { "id": "RE19X-3", "name": "Emmerich", "lat": 51.8336506, "lon": 6.2549007, "announcementUrl": "/sounds/olympia-stadion.mp3" }
-         { "id": "RE19X-4", "name": "Emmerich-Elten", "lat": 51.8743836, "lon": 6.1538099, "announcementUrl": "/sounds/olympia-stadion.mp3" }
-         { "id": "RE19X-5", "name": "Zevenaar", "lat": 51.9234546, "lon": 6.0729815, "announcementUrl": "/sounds/olympia-stadion.mp3" }
+         { "id": "RE19X-2", "name": "Wesel", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/olympia-stadion.mp3" },
+         { "id": "RE19X-3", "name": "Emmerich", "lat": 51.8336506, "lon": 6.2549007, "announcementUrl": "/sounds/olympia-stadion.mp3" },
+         { "id": "RE19X-4", "name": "Emmerich-Elten", "lat": 51.8743836, "lon": 6.1538099, "announcementUrl": "/sounds/olympia-stadion.mp3" },
+         { "id": "RE19X-5", "name": "Zevenaar", "lat": 51.9234546, "lon": 6.0729815, "announcementUrl": "/sounds/olympia-stadion.mp3" },
          { "id": "RE19X-6", "name": "Arnhem Central", "lat": 51.9835483, "lon": 5.9001715, "announcementUrl": "/sounds/olympia-stadion.mp3" }
       ]
     }
