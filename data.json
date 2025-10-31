@@ -30,7 +30,8 @@
          { "id": "RE19X-5", "name": "Zevenaar", "lat": 51.9234546, "lon": 6.0729815, "announcementUrl": "/sounds/olympia-stadion.mp3" },
          { "id": "RE19X-6", "name": "Arnhem Central", "lat": 51.9835483, "lon": 5.9001715, "announcementUrl": "/sounds/olympia-stadion.mp3" }
       ]
-      "gpxUrl":"https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/refs/heads/main/gpx/ELTENSPERRUNG_RE%2019%20Oberhausen%20Hauptbahnhof-Arnheim%20Centraal.gpx"
+      "gpxUrl":
+"https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/refs/heads/main/gpx/ELTENSPERRUNG_RE%2019%20Oberhausen%20Hauptbahnhof-Arnheim%20Centraal.gpx"
     },
     {
        "id": "4",
