@@ -126,9 +126,9 @@
        ]
      },
      {
-        "id": "9",
+        "id": "10",
         "name": "RE19", 
-        "destination": "Oberhausen-Bocholt", 
+        "destination": "Bocholt-Oberhausen", 
         "stops": [
          { "id": "RE19-6", "name": "Bocholt", "lat": 51.834204, "lon": 6.620033, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "RE19-5", "name": "Hamminkeln-Dingden", "lat": 51.770333, "lon": 6.608268, "announcementUrl": "/sounds/ruhleben.mp3" },
