@@ -140,7 +140,7 @@
      {
         "id": "11",
         "name": "S1", 
-        "destination": "Dortmund Hbf-Essen Steele", 
+        "destination": "Dortmund-Essen", 
         "stops": [
          { "id": "S1-1", "name": "Dortmund Hbf", "lat": 51.518995, "lon": 7.459408, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "S1-2", "name": "DO Dorstfeld", "lat": 51.5099094, "lon": 7.4239469, "announcementUrl": "/sounds/ruhleben.mp3" },
