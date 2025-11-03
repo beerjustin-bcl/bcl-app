@@ -29,7 +29,7 @@
          { "id": "RE19X-4", "name": "Emmerich-Elten", "lat": 51.8743836, "lon": 6.1538099, "announcementUrl": "/sounds/olympia-stadion.mp3" },
          { "id": "RE19X-5", "name": "Zevenaar", "lat": 51.9234546, "lon": 6.0729815, "announcementUrl": "/sounds/olympia-stadion.mp3" },
          { "id": "RE19X-6", "name": "Arnhem Central", "lat": 51.9835483, "lon": 5.9001715, "announcementUrl": "/sounds/olympia-stadion.mp3" }
-      ]
+      ],
       "gpxUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/refs/heads/main/gpx/ELTENSPERRUNG_RE%2019%20Oberhausen%20Hauptbahnhof-Arnheim%20Centraal.gpx"
     },
     {
@@ -228,7 +228,7 @@
          { "id": "S2-8", "name": "DO-Dorstfeld", "lat": 51.509895, "lon": 7.423941, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "S2-9", "name": "Dortmund Hbf", "lat": 51.518988, "lon": 7.459451, "announcementUrl": "/sounds/ruhleben.mp3" }
        ]
-     },
+     }
   ],
   "specialAnnouncements": [
     { "id": "sa-1", "text": "Bitte zurückbleiben", "announcementUrl": "/sounds/special/zurueckbleiben.mp3" },
