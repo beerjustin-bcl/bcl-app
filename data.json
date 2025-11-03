@@ -152,7 +152,7 @@
          { "id": "S1-8", "name": "Bochum Hbf", "lat": 51.477419, "lon": 7.2245544, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "S1-9", "name": "BO Ehrenfeld", "lat": 51.4724479, "lon": 7.2109696, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "S1-10", "name": "Wattenscheid-Höntrop", "lat": 51.460258, "lon": 7.154636, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "S1-11", "name": "Essen Eiberg", "lat": 51.4433159, "lon": 7.1099588, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-11", "name": "Essen-Eiberg", "lat": 51.4433159, "lon": 7.1099588, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "S1-12", "name": "E Steele Ost", "lat": 51.4445032, "lon": 7.0892624, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "S1-13", "name": "Essen Steele", "lat": 51.450353, "lon": 7.075661, "announcementUrl": "/sounds/ruhleben.mp3" }
        ]
