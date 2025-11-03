@@ -113,6 +113,32 @@
        ]
      },
      {
+        "id": "9",
+        "name": "RE19", 
+        "destination": "Oberhausen-Bocholt", 
+        "stops": [
+         { "id": "RE19-1", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19-2", "name": "Wesel (Friedenstr.)", "lat": 51.6562, "lon": 6.628167, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19-3", "name": "Wesel-Blumenkamp", "lat": 51.692356, "lon": 6.607253, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19-4", "name": "Hamminkeln", "lat": 51.735209, "lon": 6.601278, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19-5", "name": "Hamminkeln-Dingden", "lat": 51.770333, "lon": 6.608268, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19-6", "name": "Bocholt", "lat": 51.834204, "lon": 6.620033, "announcementUrl": "/sounds/ruhleben.mp3" }
+       ]
+     },
+     {
+        "id": "9",
+        "name": "RE19", 
+        "destination": "Oberhausen-Bocholt", 
+        "stops": [
+         { "id": "RE19-6", "name": "Bocholt", "lat": 51.834204, "lon": 6.620033, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19-5", "name": "Hamminkeln-Dingden", "lat": 51.770333, "lon": 6.608268, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19-4", "name": "Hamminkeln", "lat": 51.735209, "lon": 6.601278, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19-3", "name": "Wesel-Blumenkamp", "lat": 51.692356, "lon": 6.607253, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19-2", "name": "Wesel (Friedenstr.)", "lat": 51.6562, "lon": 6.628167, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19-1", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" }
+       ]
+     },
+     {
 
   ],
   "specialAnnouncements": [
