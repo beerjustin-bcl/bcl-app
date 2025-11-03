@@ -80,7 +80,7 @@
          { "id": "RE19L-6", "name": "Friedrichsfeld", "lat": 51.622373, "lon": 6.651855, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "RE19L-7", "name": "Friedrichsfeld Post", "lat": 51.62799348437696, "lon": 6.650489540813595, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "RE19L-8", "name": "Wesel (Friedenstr.)", "lat": 51.6562, "lon": 6.628167, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19L-9", "name": "Wesel Feldmark", "lat": 51.675432041096286, "lon": 6.60915235097292, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19L-9", "name": "Wesel-Feldmark", "lat": 51.675432041096286, "lon": 6.60915235097292, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "RE19L-10", "name": "Mehrhoog", "lat": 51.739290395499296, "lon": 6.516616908759403, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "RE19L-11", "name": "Haldern (Weseler Landstr.)", "lat": 51.77123, "lon": 6.454998, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "RE19L-12", "name": "Empel-Rees", "lat": 51.797642, "lon": 6.417421, "announcementUrl": "/sounds/ruhleben.mp3" },
@@ -100,7 +100,7 @@
          { "id": "RE19L-4", "name": "Empel-Rees", "lat": 51.797642, "lon": 6.417421, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "RE19L-5", "name": "Haldern (Weseler Landstr.)", "lat": 51.77123, "lon": 6.454998, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "RE19L-6", "name": "Mehrhoog", "lat": 51.739290395499296, "lon": 6.516616908759403, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19L-7", "name": "Wesel Feldmark", "lat": 51.675432041096286, "lon": 6.60915235097292, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19L-7", "name": "Wesel-Feldmark", "lat": 51.675432041096286, "lon": 6.60915235097292, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "RE19L-8", "name": "Wesel (Friedenstr.)", "lat": 51.6562, "lon": 6.628167, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "RE19L-9", "name": "Friedrichsfeld Post", "lat": 51.62799348437696, "lon": 6.650489540813595, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "RE19L-10", "name": "Friedrichsfeld", "lat": 51.622373, "lon": 6.651855, "announcementUrl": "/sounds/ruhleben.mp3" },
@@ -138,7 +138,25 @@
        ]
      },
      {
-
+        "id": "11",
+        "name": "S1", 
+        "destination": "Dortmund Hbf-Essen Steele", 
+        "stops": [
+         { "id": "S1-1", "name": "Dortmund Hbf", "lat": 51.518995, "lon": 7.459408, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-2", "name": "DO Dorstfeld", "lat": 51.5099094, "lon": 7.4239469, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-3", "name": "DO Dorstfeld Süd", "lat": 51.5013043, "lon": 7.4180878, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-4", "name": "DO Universität", "lat": 51.492859, "lon": 7.416147, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-5", "name": "DO Kley", "lat": 51.4894914, "lon": 7.3647464, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-6", "name": "Bochum Langendreer", "lat": 51.477298, "lon": 7.3234765, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-7", "name": "BO Langendreer West", "lat": 51.478145, "lon": 7.30213, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-8", "name": "Bochum Hbf", "lat": 51.477419, "lon": 7.2245544, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-9", "name": "BO Ehrenfeld", "lat": 51.4724479, "lon": 7.2109696, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-10", "name": "Wattenscheid-Höntrop", "lat": 51.460258, "lon": 7.154636, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-11", "name": "Essen Eiberg", "lat": 51.4433159, "lon": 7.1099588, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-12", "name": "E Steele Ost", "lat": 51.4445032, "lon": 7.0892624, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-13", "name": "Essen Steele", "lat": 51.450353, "lon": 7.075661, "announcementUrl": "/sounds/ruhleben.mp3" }
+       ]
+     },
   ],
   "specialAnnouncements": [
     { "id": "sa-1", "text": "Bitte zurückbleiben", "announcementUrl": "/sounds/special/zurueckbleiben.mp3" },
