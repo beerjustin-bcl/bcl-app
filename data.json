@@ -73,8 +73,8 @@
         "destination": "Oberhausen-Emmerich", 
         "stops": [
          { "id": "RE19L-1", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19L-2", "name": "OB Sterkrade", "lat": 51.512022, "lon": 684436, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19L-3", "name": "OB Holten", "lat": 51.534056488324524, "lon": 6.809986748979696, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19L-2", "name": "OB-Sterkrade", "lat": 51.512022, "lon": 684436, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19L-3", "name": "OB-Holten", "lat": 51.534056488324524, "lon": 6.809986748979696, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "RE19L-4", "name": "Dinslaken", "lat": 51.56680321489091, "lon": 6.73674948095362, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "RE19L-5", "name": "Voerde", "lat": 51.59814789549506, "lon": 6.690545747606961, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "RE19L-6", "name": "Friedrichsfeld", "lat": 51.622373, "lon": 6.651855, "announcementUrl": "/sounds/ruhleben.mp3" },
@@ -106,8 +106,8 @@
          { "id": "RE19L-10", "name": "Friedrichsfeld", "lat": 51.622373, "lon": 6.651855, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "RE19L-11", "name": "Voerde", "lat": 51.59814789549506, "lon": 6.690545747606961, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "RE19L-12", "name": "Dinslaken", "lat": 51.56680321489091, "lon": 6.73674948095362, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19L-13", "name": "OB Holten", "lat": 51.534056488324524, "lon": 6.809986748979696, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19L-14", "name": "OB Sterkrade", "lat": 51.512022, "lon": 684436, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19L-13", "name": "Oberhausen-Holten", "lat": 51.534056488324524, "lon": 6.809986748979696, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "RE19L-14", "name": "OB-Sterkrade", "lat": 51.512022, "lon": 684436, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "RE19L-15", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" }
        ]
      },
@@ -143,18 +143,18 @@
         "destination": "Dortmund-Essen", 
         "stops": [
          { "id": "S1-1", "name": "Dortmund Hbf", "lat": 51.518995, "lon": 7.459408, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "S1-2", "name": "DO Dorstfeld", "lat": 51.5099094, "lon": 7.4239469, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "S1-3", "name": "DO Dorstfeld Süd", "lat": 51.5013043, "lon": 7.4180878, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "S1-4", "name": "DO Universität", "lat": 51.492859, "lon": 7.416147, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "S1-5", "name": "DO Kley", "lat": 51.4894914, "lon": 7.3647464, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "S1-6", "name": "Bochum Langendreer", "lat": 51.477298, "lon": 7.3234765, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "S1-7", "name": "BO Langendreer West", "lat": 51.478145, "lon": 7.30213, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-2", "name": "DO-Dorstfeld", "lat": 51.5099094, "lon": 7.4239469, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-3", "name": "DO-Dorstfeld Süd", "lat": 51.5013043, "lon": 7.4180878, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-4", "name": "DO-Universität", "lat": 51.492859, "lon": 7.416147, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-5", "name": "DO-Kley", "lat": 51.4894914, "lon": 7.3647464, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-6", "name": "Bochum-Langendreer", "lat": 51.477298, "lon": 7.3234765, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-7", "name": "BO-Langendreer West", "lat": 51.478145, "lon": 7.30213, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "S1-8", "name": "Bochum Hbf", "lat": 51.477419, "lon": 7.2245544, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "S1-9", "name": "BO Ehrenfeld", "lat": 51.4724479, "lon": 7.2109696, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-9", "name": "BO-Ehrenfeld", "lat": 51.4724479, "lon": 7.2109696, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "S1-10", "name": "Wattenscheid-Höntrop", "lat": 51.460258, "lon": 7.154636, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "S1-11", "name": "Essen-Eiberg", "lat": 51.4433159, "lon": 7.1099588, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "S1-12", "name": "E Steele Ost", "lat": 51.4445032, "lon": 7.0892624, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "S1-13", "name": "Essen Steele", "lat": 51.450353, "lon": 7.075661, "announcementUrl": "/sounds/ruhleben.mp3" }
+         { "id": "S1-12", "name": "E-Steele Ost", "lat": 51.4445032, "lon": 7.0892624, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-13", "name": "Essen-Steele", "lat": 51.450353, "lon": 7.075661, "announcementUrl": "/sounds/ruhleben.mp3" }
        ]
      },
      {
@@ -162,18 +162,18 @@
         "name": "S1", 
         "destination": "Essen-Dortmund", 
         "stops": [
-         { "id": "S1-1", "name": "Essen Steele", "lat": 51.450353, "lon": 7.075661, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "S1-2", "name": "E Steele Ost", "lat": 51.4445032, "lon": 7.0892624, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-1", "name": "Essen-Steele", "lat": 51.450353, "lon": 7.075661, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-2", "name": "E-Steele Ost", "lat": 51.4445032, "lon": 7.0892624, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "S1-3", "name": "Essen-Eiberg", "lat": 51.4433159, "lon": 7.1099588, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "S1-4", "name": "Wattenscheid-Höntrop", "lat": 51.460258, "lon": 7.154636, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "S1-5", "name": "BO Ehrenfeld", "lat": 51.4724479, "lon": 7.2109696, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-5", "name": "Bochum-Ehrenfeld", "lat": 51.4724479, "lon": 7.2109696, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "S1-6", "name": "Bochum Hbf", "lat": 51.477419, "lon": 7.2245544, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "S1-7", "name": "BO Langendreer West", "lat": 51.478145, "lon": 7.30213, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "S1-8", "name": "Bochum Langendreer", "lat": 51.477298, "lon": 7.3234765, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "S1-9", "name": "DO Kley", "lat": 51.4894914, "lon": 7.3647464, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "S1-10", "name": "DO Universität", "lat": 51.492859, "lon": 7.416147, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "S1-11", "name": "DO Dorstfeld Süd", "lat": 51.5013043, "lon": 7.4180878, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "S1-12", "name": "DO Dorstfeld", "lat": 51.5099094, "lon": 7.4239469, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-7", "name": "BO-Langendreer West", "lat": 51.478145, "lon": 7.30213, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-8", "name": "BO-Langendreer", "lat": 51.477298, "lon": 7.3234765, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-9", "name": "Dortmund-Kley", "lat": 51.4894914, "lon": 7.3647464, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-10", "name": "DO-Universität", "lat": 51.492859, "lon": 7.416147, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-11", "name": "DO-Dorstfeld Süd", "lat": 51.5013043, "lon": 7.4180878, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S1-12", "name": "DO-Dorstfeld", "lat": 51.5099094, "lon": 7.4239469, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "S1-13", "name": "Dortmund Hbf", "lat": 51.518995, "lon": 7.459408, "announcementUrl": "/sounds/ruhleben.mp3" }
        ]
      },
@@ -182,7 +182,7 @@
         "name": "S2", 
         "destination": "Herne-Dortmund", 
         "stops": [
-         { "id": "S2-1", "name": "Herne Bahnhof", "lat": 51.450353, "lon": 7.075661, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-1", "name": "Herne Bahnhof", "lat": 51.544486, "lon": 7.217506, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "S2-2", "name": "Castrop-Rauxel Hbf", "lat": 51.573244, "lon": 7.305216, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "S2-3", "name": "Dortmund-Mengede", "lat": 51.57014, "lon": 7.377128, "announcementUrl": "/sounds/ruhleben.mp3" }
        ]
@@ -194,7 +194,41 @@
         "stops": [
          { "id": "S2-1", "name": "Dortmund-Mengede", "lat": 51.57014, "lon": 7.377128, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "S2-2", "name": "Castrop-Rauxel Hbf", "lat": 51.573244, "lon": 7.305216, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "S2-3", "name": "Herne Bahnhof", "lat": 51.450353, "lon": 7.075661, "announcementUrl": "/sounds/ruhleben.mp3" }
+         { "id": "S2-3", "name": "Herne Bahnhof", "lat": 51.544486, "lon": 7.217506, "announcementUrl": "/sounds/ruhleben.mp3" }
+       ]
+     },
+     {
+        "id": "15",
+        "name": "S2", 
+        "destination": "Dortmund Hbf-Herne", 
+        "stops": [
+         { "id": "S2-1", "name": "Dortmund Hbf", "lat": 51.518988, "lon": 7.459451, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-2", "name": "DO-Dorstfeld", "lat": 51.509895, "lon": 7.423941, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-3", "name": "DO-Wischlingen", "lat": 51.518819, "lon": 7.413178, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-4", "name": "DO-Huckarde", "lat": 51.53515104439606, "lon": 7.4094260602129225, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-5", "name": "DO-Westerfilde", "lat": 51.54733, "lon": 7.382168, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-6", "name": "DO-Nette/Oestrich", "lat": 51.562381, "lon": 7.378047, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-7", "name": "DO-Mengede", "lat": 51.57014, "lon": 7.377128, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-8", "name": "Castrop-Rauxel Hbf", "lat": 51.573244, "lon": 7.305216, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-9", "name": "Herne Bahnhof", "lat": 51.544486, "lon": 7.217506, "announcementUrl": "/sounds/ruhleben.mp3" }
+       ]
+     },
+     {
+        "id": "16",
+        "name": "S2", 
+        "destination": "Herne-Dortmund Hbf", 
+        "stops": [
+         { "id": "S2-1", "name": "Herne Bahnhof", "lat": 51.544486, "lon": 7.217506, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-2", "name": "Castrop-Rauxel Hbf", "lat": 51.573244, "lon": 7.305216, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-3", "name": "Dortmund-Mengede", "lat": 51.57014, "lon": 7.377128, "announcementUrl": "/sounds/ruhleben.mp3" }
+         { "id": "S2-4", "name": "DO-Nette/Oestrich", "lat": 51.562381, "lon": 7.378047, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-5", "name": "DO-Westerfilde", "lat": 51.54733, "lon": 7.382168, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-6", "name": "DO-Huckarde", "lat": 51.53515104439606, "lon": 7.4094260602129225, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-7", "name": "DO-Wischlingen", "lat": 51.518819, "lon": 7.413178, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-8", "name": "DO-Dorstfeld", "lat": 51.509895, "lon": 7.423941, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-9", "name": "Dortmund Hbf", "lat": 51.518988, "lon": 7.459451, "announcementUrl": "/sounds/ruhleben.mp3" }
+       ]
+     },
   ],
   "specialAnnouncements": [
     { "id": "sa-1", "text": "Bitte zurückbleiben", "announcementUrl": "/sounds/special/zurueckbleiben.mp3" },
