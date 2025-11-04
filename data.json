@@ -180,7 +180,7 @@
      {
         "id": "13",
         "name": "S2", 
-        "destination": "Herne-Dortmund", 
+        "destination": "Herne-Dortmund Mengede", 
         "stops": [
          { "id": "S2-1", "name": "Herne Bahnhof", "lat": 51.544486, "lon": 7.217506, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "S2-2", "name": "Castrop-Rauxel Hbf", "lat": 51.573244, "lon": 7.305216, "announcementUrl": "/sounds/ruhleben.mp3" },
@@ -190,7 +190,7 @@
      {
         "id": "14",
         "name": "S2", 
-        "destination": "Dortmund-Herne", 
+        "destination": "Dortmund Mengede-Herne", 
         "stops": [
          { "id": "S2-1", "name": "Dortmund-Mengede", "lat": 51.57014, "lon": 7.377128, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "S2-2", "name": "Castrop-Rauxel Hbf", "lat": 51.573244, "lon": 7.305216, "announcementUrl": "/sounds/ruhleben.mp3" },
@@ -228,7 +228,22 @@
          { "id": "S2-8", "name": "DO-Dorstfeld", "lat": 51.509895, "lon": 7.423941, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "S2-9", "name": "Dortmund Hbf", "lat": 51.518988, "lon": 7.459451, "announcementUrl": "/sounds/ruhleben.mp3" }
        ]
-     }
+     },
+     {
+        "id": "17",
+        "name": "S6", 
+        "destination": "Düsseldorf Unterrath-Essen", 
+        "stops": [
+         { "id": "S2-1", "name": "Herne Bahnhof", "lat": 51.544486, "lon": 7.217506, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-2", "name": "Castrop-Rauxel Hbf", "lat": 51.573244, "lon": 7.305216, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-3", "name": "Dortmund-Mengede", "lat": 51.57014, "lon": 7.377128, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-4", "name": "DO-Nette/Oestrich", "lat": 51.562381, "lon": 7.378047, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-5", "name": "DO-Westerfilde", "lat": 51.54733, "lon": 7.382168, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-6", "name": "DO-Huckarde", "lat": 51.53515104439606, "lon": 7.4094260602129225, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-7", "name": "DO-Wischlingen", "lat": 51.518819, "lon": 7.413178, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-8", "name": "DO-Dorstfeld", "lat": 51.509895, "lon": 7.423941, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "S2-9", "name": "Dortmund Hbf", "lat": 51.518988, "lon": 7.459451, "announcementUrl": "/sounds/ruhleben.mp3" }
+       ]
   ],
   "specialAnnouncements": [
     { "id": "sa-1", "text": "Bitte zurückbleiben", "announcementUrl": "/sounds/special/zurueckbleiben.mp3" },
