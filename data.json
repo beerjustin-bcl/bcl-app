@@ -374,8 +374,8 @@
           { "id": "S8-8", "name": "W-Barmen", "lat": 51.26781214466064, "lon": 7.195269197258028, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "S8-9", "name": "Wuppertal-Oberbarmen", "lat": 51.275283819845214, "lon": 7.2220850820158375, "announcementUrl": "/sounds/ruhleben.mp3" }
        ]
-     }  
-  ]
+     },  
+  ],
   "specialAnnouncements": [
     { "id": "sa-1", "text": "Bitte zurückbleiben", "announcementUrl": "/sounds/special/zurueckbleiben.mp3" },
     { "id": "sa-2", "text": "Endhaltestelle", "announcementUrl": "/sounds/special/endhaltestelle.mp3" }
