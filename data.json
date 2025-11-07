@@ -374,7 +374,30 @@
           { "id": "wbarmen", "name": "W-Barmen", "lat": 51.26781214466064, "lon": 7.195269197258028, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "wobb", "name": "Wuppertal-Oberbarmen", "lat": 51.275283819845214, "lon": 7.2220850820158375, "announcementUrl": "/sounds/ruhleben.mp3" }
        ]
-     },  
+     },
+     {
+         "id": "25",
+         "name": "RE14",
+         "destination": "Essen Hbf - Dorsten ZOB",
+         "stops": [
+          { "id": "ehbf", "name": "Essen Hbf", "lat": 51.450164, "lon": 7.010061, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "bothbf", "name": "Bottrop Hbf", "lat": 51.509962, "lon": 6.936388, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "glawest", "name": "Gladbeck-West", "lat": 51.575134, "lon": 6.977295, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "dorszob", "name": "Dorsten ZOB", "lat": 51.65817, "lon": 6.968851, "announcementUrl": "/sounds/ruhleben.mp3" }
+       ]
+     },
+     {
+         "id": "26",
+         "name": "RE14",
+         "destination": "Dorsten ZOB - Essen Hbf",
+         "stops": [
+          { "id": "dorszob", "name": "Dorsten ZOB", "lat": 51.65817, "lon": 6.968851, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "glawest", "name": "Gladbeck-West", "lat": 51.575134, "lon": 6.977295, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "bothbf", "name": "Bottrop Hbf", "lat": 51.509962, "lon": 6.936388, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "ehbf", "name": "Essen Hbf", "lat": 51.450164, "lon": 7.010061, "announcementUrl": "/sounds/ruhleben.mp3" }
+       ]
+     },
+ 
   ],
   "specialAnnouncements": [
     { "id": "sa-1", "text": "Bitte zurückbleiben", "announcementUrl": "/sounds/special/zurueckbleiben.mp3" },
