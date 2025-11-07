@@ -419,8 +419,7 @@
           { "id": "bothbf", "name": "Bottrop Hbf", "lat": 51.509962, "lon": 6.936388, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "ehbf", "name": "Essen Hbf", "lat": 51.450164, "lon": 7.010061, "announcementUrl": "/sounds/ruhleben.mp3" }
        ]
-     },
- 
+     }
   ],
   "specialAnnouncements": [
     { "id": "sa-1", "text": "Bitte zurückbleiben", "announcementUrl": "/sounds/special/zurueckbleiben.mp3" },
