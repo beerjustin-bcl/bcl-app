@@ -5,8 +5,8 @@
       "name": "RE19X",
       "destination": "Oberhausen - Wesel",
       "stops": [
-        { "id": "RE19X-1", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" },
-        { "id": "RE19X-2", "name": "Wesel", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/olympia-stadion.mp3" }
+        { "id": "obhbf", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" },
+        { "id": "wesel", "name": "Wesel", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/olympia-stadion.mp3" }
       ]
     },
     {
@@ -14,8 +14,8 @@
       "name": "RE19X",
       "destination": "Wesel - Oberhausen",
       "stops": [
-        { "id": "RE19X-1", "name": "Wesel", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-        { "id": "RE19X-2", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" }
+        { "id": "wesel", "name": "Wesel", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/olympia-stadion.mp3" },
+        { "id": "obhbf", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" }
       ]
     },
     {
@@ -23,12 +23,12 @@
        "name": "RE19X", 
        "destination": "Oberhausen - Arnhem", 
        "stops": [
-         { "id": "RE19X-1", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19X-2", "name": "Wesel", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-         { "id": "RE19X-3", "name": "Emmerich", "lat": 51.8336506, "lon": 6.2549007, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-         { "id": "RE19X-4", "name": "Emmerich-Elten", "lat": 51.8743836, "lon": 6.1538099, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-         { "id": "RE19X-5", "name": "Zevenaar", "lat": 51.9234546, "lon": 6.0729815, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-         { "id": "RE19X-6", "name": "Arnhem Central", "lat": 51.9835483, "lon": 5.9001715, "announcementUrl": "/sounds/olympia-stadion.mp3" }
+         { "id": "obhbf", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "wesel", "name": "Wesel", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/olympia-stadion.mp3" },
+         { "id": "emmerich", "name": "Emmerich", "lat": 51.8336506, "lon": 6.2549007, "announcementUrl": "/sounds/olympia-stadion.mp3" },
+         { "id": "emmeriche", "name": "Emmerich-Elten", "lat": 51.8743836, "lon": 6.1538099, "announcementUrl": "/sounds/olympia-stadion.mp3" },
+         { "id": "zevenaar", "name": "Zevenaar", "lat": 51.9234546, "lon": 6.0729815, "announcementUrl": "/sounds/olympia-stadion.mp3" },
+         { "id": "arnhem", "name": "Arnhem Central", "lat": 51.9835483, "lon": 5.9001715, "announcementUrl": "/sounds/olympia-stadion.mp3" }
       ],
       "gpxUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/refs/heads/main/gpx/ELTENSPERRUNG_RE%2019%20Oberhausen%20Hauptbahnhof-Arnheim%20Centraal.gpx"
     },
@@ -37,12 +37,12 @@
        "name": "RE19X", 
        "destination": "Arnhem - Oberhausen", 
        "stops": [
-         { "id": "RE19X-1", "name": "Arnhem Central", "lat": 51.9835483, "lon": 5.9001715, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-         { "id": "RE19X-2", "name": "Zevenaar", "lat": 51.9234546, "lon": 6.0729815, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-         { "id": "RE19X-3", "name": "Emmerich-Elten", "lat": 51.8743836, "lon": 6.1538099, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-         { "id": "RE19X-4", "name": "Emmerich", "lat": 51.8336506, "lon": 6.2549007, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-         { "id": "RE19X-5", "name": "Wesel", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-         { "id": "RE19X-6", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" }
+         { "id": "arnhem", "name": "Arnhem Central", "lat": 51.9835483, "lon": 5.9001715, "announcementUrl": "/sounds/olympia-stadion.mp3" },
+         { "id": "zevenaar", "name": "Zevenaar", "lat": 51.9234546, "lon": 6.0729815, "announcementUrl": "/sounds/olympia-stadion.mp3" },
+         { "id": "emmeriche", "name": "Emmerich-Elten", "lat": 51.8743836, "lon": 6.1538099, "announcementUrl": "/sounds/olympia-stadion.mp3" },
+         { "id": "emmerich", "name": "Emmerich", "lat": 51.8336506, "lon": 6.2549007, "announcementUrl": "/sounds/olympia-stadion.mp3" },
+         { "id": "wesel", "name": "Wesel", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/olympia-stadion.mp3" },
+         { "id": "obhbf", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" }
       ]
     },
     {
@@ -50,10 +50,10 @@
        "name": "XNL", 
        "destination": "Oberhausen - Arnhem", 
        "stops": [
-         { "id": "XNL-1", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "XNL-2", "name": "Wesel", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-         { "id": "XNL-3", "name": "Emmerich", "lat": 51.8336506, "lon": 6.2549007, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-         { "id": "XNL-4", "name": "Arnhem Central", "lat": 51.9835483, "lon": 5.9001715, "announcementUrl": "/sounds/olympia-stadion.mp3" } 
+         { "id": "obhbf", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "wesel", "name": "Wesel", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/olympia-stadion.mp3" },
+         { "id": "emmerich", "name": "Emmerich", "lat": 51.8336506, "lon": 6.2549007, "announcementUrl": "/sounds/olympia-stadion.mp3" },
+         { "id": "arnhem", "name": "Arnhem Central", "lat": 51.9835483, "lon": 5.9001715, "announcementUrl": "/sounds/olympia-stadion.mp3" } 
        ]  
     },
     {
@@ -61,10 +61,10 @@
        "name": "XNL", 
        "destination": "Arnhem - Oberhausen", 
        "stops": [
-         { "id": "XNL-1", "name": "Arnhem Central", "lat": 51.9835483, "lon": 5.9001715, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-         { "id": "XNL-2", "name": "Emmerich", "lat": 51.8336506, "lon": 6.2549007, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-         { "id": "XNL-3", "name": "Wesel", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-         { "id": "XNL-4", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" }
+         { "id": "arnhem", "name": "Arnhem Central", "lat": 51.9835483, "lon": 5.9001715, "announcementUrl": "/sounds/olympia-stadion.mp3" },
+         { "id": "emmerich", "name": "Emmerich", "lat": 51.8336506, "lon": 6.2549007, "announcementUrl": "/sounds/olympia-stadion.mp3" },
+         { "id": "wesel", "name": "Wesel", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/olympia-stadion.mp3" },
+         { "id": "obhbf", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" }
       ]
     },
     {
@@ -72,21 +72,21 @@
         "name": "RE19L", 
         "destination": "Oberhausen - Emmerich", 
         "stops": [
-         { "id": "RE19L-1", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19L-2", "name": "OB-Sterkrade", "lat": 51.512022, "lon": 6.684436, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19L-3", "name": "OB-Holten", "lat": 51.534056488324524, "lon": 6.809986748979696, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19L-4", "name": "Dinslaken", "lat": 51.56680321489091, "lon": 6.73674948095362, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19L-5", "name": "Voerde", "lat": 51.59814789549506, "lon": 6.690545747606961, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19L-6", "name": "Friedrichsfeld", "lat": 51.622373, "lon": 6.651855, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19L-7", "name": "Friedrichsfeld Post", "lat": 51.62799348437696, "lon": 6.650489540813595, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19L-8", "name": "Wesel (Friedenstr.)", "lat": 51.6562, "lon": 6.628167, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19L-9", "name": "Wesel-Feldmark", "lat": 51.675432041096286, "lon": 6.60915235097292, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19L-10", "name": "Mehrhoog", "lat": 51.739290395499296, "lon": 6.516616908759403, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19L-11", "name": "Haldern (Weseler Landstr.)", "lat": 51.77123, "lon": 6.454998, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19L-12", "name": "Empel-Rees", "lat": 51.797642, "lon": 6.417421, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19L-13", "name": "Millingen", "lat": 51.809371, "lon": 6.399873, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19L-14", "name": "Praest Kirche", "lat": 51.821331, "lon": 6.339867, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "RE19L-15", "name": "Emmerich", "lat": 51.8336506, "lon": 6.2549007, "announcementUrl": "/sounds/olympia-stadion.mp3" }
+         { "id": "obhbf", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "obsterkrade", "name": "OB-Sterkrade", "lat": 51.512022, "lon": 6.684436, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "obholten", "name": "OB-Holten", "lat": 51.534056488324524, "lon": 6.809986748979696, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "dinslaken", "name": "Dinslaken", "lat": 51.56680321489091, "lon": 6.73674948095362, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "voerde", "name": "Voerde", "lat": 51.59814789549506, "lon": 6.690545747606961, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "friedrichsfeld", "name": "Friedrichsfeld", "lat": 51.622373, "lon": 6.651855, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "friedrichsfeldpost", "name": "Friedrichsfeld Post", "lat": 51.62799348437696, "lon": 6.650489540813595, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "wesel", "name": "Wesel", "lat": 51.6562, "lon": 6.628167, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "weselfeldmark", "name": "Wesel-Feldmark", "lat": 51.675432041096286, "lon": 6.60915235097292, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "merhoog", "name": "Mehrhoog", "lat": 51.739290395499296, "lon": 6.516616908759403, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "haldern", "name": "Haldern (Weseler Landstr.)", "lat": 51.77123, "lon": 6.454998, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "empelrees", "name": "Empel-Rees", "lat": 51.797642, "lon": 6.417421, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "millingen", "name": "Millingen", "lat": 51.809371, "lon": 6.399873, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "praestkirche", "name": "Praest Kirche", "lat": 51.821331, "lon": 6.339867, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "emmerich", "name": "Emmerich", "lat": 51.8336506, "lon": 6.2549007, "announcementUrl": "/sounds/olympia-stadion.mp3" }
        ]
      },
      {
