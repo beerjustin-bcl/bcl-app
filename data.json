@@ -387,8 +387,8 @@
        ],
          "courses": [ 
           {
-         "name": "1", // Die Kursnummer, die im Modal eingegeben wird.
-         "trips": [    // Jeder Kurs hat ein "trips"-Array mit den einzelnen Fahrten.
+         "name": "1",
+         "trips": [
           {
          "stops": [
           { "id": "dorszob", "departureTime": "21:03" },
