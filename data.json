@@ -384,7 +384,30 @@
           { "id": "bothbf", "name": "Bottrop Hbf", "lat": 51.509962, "lon": 6.936388, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "glawest", "name": "Gladbeck-West", "lat": 51.575134, "lon": 6.977295, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "dorszob", "name": "Dorsten ZOB", "lat": 51.65817, "lon": 6.968851, "announcementUrl": "/sounds/ruhleben.mp3" }
+       ],
+         "courses": [ 
+          {
+         "name": "101", // Die Kursnummer, die im Modal eingegeben wird.
+         "trips": [    // Jeder Kurs hat ein "trips"-Array mit den einzelnen Fahrten.
+          {
+         "stops": [
+          { "id": "dorszob", "departureTime": "08:00" },
+          { "id": "glawest", "departureTime": "08:05" },
+          { "id": "bothbf", "departureTime": "08:10" },
+          { "id": "ehbf", "departureTime": "08:10" }
        ]
+     },
+     {
+         "stops": [
+          { "id": "ehbf", "departureTime": "08:00" },
+          { "id": "bothbf", "departureTime": "08:05" },
+          { "id": "glawest", "departureTime": "08:10" },
+          { "id": "dorszob", "departureTime": "08:10" }
+       ]
+     }
+   ]
+  }      
+ ]           
      },
      {
          "id": "26",
