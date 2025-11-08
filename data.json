@@ -371,7 +371,7 @@
   }      
  ]           
 }
-  ]
+  ],
   "specialAnnouncements": [
     { "id": "sa-1", "text": "Bitte zurückbleiben", "announcementUrl": "/sounds/special/zurueckbleiben.mp3" },
     { "id": "sa-2", "text": "Endhaltestelle", "announcementUrl": "/sounds/special/endhaltestelle.mp3" }
