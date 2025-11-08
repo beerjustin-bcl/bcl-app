@@ -290,7 +290,7 @@
          "name": "RE14",
          "destination": "Borken - Dorsten ZOB",
          "stops": [
-          { "id": "borken", "name": "Borken", "lat": , "lon": , "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "borken", "name": "Borken", "lat": 51.000000, "lon": 6.000000, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "marbeckheiden", "name": "Marbeck-Heiden", "lat": 51.809107, "lon": 6.906436, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "rhade", "name": "Rhade", "lat": 51.75232, "lon": 6.945053, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "deuten", "name": "Deuten", "lat": 51.713061, "lon": 6.971241, "announcementUrl": "/sounds/ruhleben.mp3" },
