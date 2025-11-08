@@ -249,7 +249,7 @@
           { "id": "dhbf", "name": "Düsseldorf Hbf", "lat": 51.221859, "lon": 6.794208, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "dflughafen", "name": "D-Flughafen", "lat": 51.291169, "lon": 6.78807, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "duhbf", "name": "Duisburg Hbf/Osteingang", "lat": 51.429956, "lon": 6.77731, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "mülheimhbf", "name": "Mülheim Hbf", "lat": 51.43176, "lon": 6.887136, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "mülheimhbf", "name": "Mülheim Hbf", "lat": 51.431779, "lon": 6.887136, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "ehbf", "name": "Essen Hbf", "lat": 51.45022, "lon": 7.010336, "announcementUrl": "/sounds/ruhleben.mp3" }
        ]
      },
@@ -271,6 +271,18 @@
           { "id": "sendenbösensell", "name": "Senden-Bösensell", "lat": 51.9065119, "lon": 7.4879179, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "münsteralbachten", "name": "Münster-Albachten", "lat": 51.9146317, "lon": 7.5273294, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "münsterhbf", "name": "Münster Hbf", "lat": 51.9554471, "lon": 7.6325853, "announcementUrl": "/sounds/ruhleben.mp3" }
+       ]
+     },  
+     {
+         "id": "re242gehbfduhbf",
+         "name": "RE2/42",
+         "destination": "Gelsenkirchen Hbf - Duisburg Hbf",
+         "stops": [
+          { "id": "gehbf", "name": "Gelsenkirchen Hbf", "lat": 51.505644, "lon": 7.100352, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "ehbf", "name": "Essen Hbf", "lat": 51.45022, "lon": 7.010336, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "mülheimhbf", "name": "Mülheim Hbf", "lat": 51.431779, "lon": 6.887136, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "dflughafen", "name": "D-Flughafen", "lat": 51.291169, "lon": 6.78807, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "dhbf", "name": "Düsseldorf Hbf", "lat": 51.221859, "lon": 6.794208, "announcementUrl": "/sounds/ruhleben.mp3" }
        ]
      },  
      {
