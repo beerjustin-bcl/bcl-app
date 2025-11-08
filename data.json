@@ -240,6 +240,38 @@
           { "id": "dflingerns", "name": "D-Flingern", "lat": 51.2267114, "lon": 6.8116434, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "dhbf", "name": "Düsseldorf Hbf", "lat": 51.221859, "lon": 6.794208, "announcementUrl": "/sounds/ruhleben.mp3" }
        ]
+     }, 
+     {
+         "id": "re2ehbfdhbf",
+         "name": "RE2",
+         "destination": "Essen Hbf - Düsseldorf Hbf",
+         "stops": [
+          { "id": "dhbf", "name": "Düsseldorf Hbf", "lat": 51.221859, "lon": 6.794208, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "dflughafen", "name": "D-Flughafen", "lat": 51.291169, "lon": 6.78807, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "duhbf", "name": "Duisburg Hbf/Osteingang", "lat": 51.429956, "lon": 6.77731, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "mülheimhbf", "name": "Mülheim Hbf", "lat": 51.43176, "lon": 6.887136, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "ehbf", "name": "Essen Hbf", "lat": 51.45022, "lon": 7.010336, "announcementUrl": "/sounds/ruhleben.mp3" }
+       ]
+     },
+     {
+         "id": "re242halternmünsterhbf",
+         "name": "RE2/42",
+         "destination": "Haltern am See - Münster Hbf",
+         "stops": [
+          { "id": "halternamsee", "name": "Haltern am See", "lat": 51.7382085, "lon": 7.1845887, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "marlsinsen", "name": "Marl-Sinsen", "lat": 51.6683747, "lon": 7.1735299, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "rehbf", "name": "Recklinghausen Hbf", "lat": 51.616009, "lon": 7.2038876, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "wanneeickel", "name": "Wanne-Eickel Hbf", "lat": 51.5320128, "lon": 7.1658563, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "gehbf", "name": "Gelsenkirchen Hbf", "lat": 51.5058493, "lon": 7.1000409, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "ehbf", "name": "Essen Hbf", "lat": 51.45022, "lon": 7.010336, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "sythen", "name": "Sythen", "lat": 51.7721872, "lon": 7.2257172, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "dülmen", "name": "Dülmen", "lat": 51.8285857, "lon": 7.29399, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "buldern", "name": "Buldern", "lat": 51.8622918, "lon": 7.3724699, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "nottulnappelhülsen", "name": "Nottuln-Appelhülsen", "lat": 51.892923, "lon": 7.4275521, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "sendenbösensell", "name": "Senden-Bösensell", "lat": 51.9065119, "lon": 7.4879179, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "münsteralbachten", "name": "Münster-Albachten", "lat": 51.9146317, "lon": 7.5273294, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "münsterhbf", "name": "Münster Hbf", "lat": 51.9554471, "lon": 7.6325853, "announcementUrl": "/sounds/ruhleben.mp3" }
+       ]
      },  
      {
          "id": "re14ehbfdorzob",
