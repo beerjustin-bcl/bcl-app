@@ -284,6 +284,58 @@
           { "id": "dflughafen", "name": "D-Flughafen", "lat": 51.291169, "lon": 6.78807, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "dhbf", "name": "Düsseldorf Hbf", "lat": 51.221859, "lon": 6.794208, "announcementUrl": "/sounds/ruhleben.mp3" }
        ]
+     },
+     {
+         "id": "re14borkendorsten",
+         "name": "RE14",
+         "destination": "Borken - Dorsten ZOB",
+         "stops": [
+          { "id": "borken", "name": "Borken", "lat": , "lon": , "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "marbeckheiden", "name": "Marbeck-Heiden", "lat": 51.809107, "lon": 6.906436, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "rhade", "name": "Rhade", "lat": 51.75232, "lon": 6.945053, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "deuten", "name": "Deuten", "lat": 51.713061, "lon": 6.971241, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "hervestdorsten", "name": "Dorsten-Hervest", "lat": 51.672158, "lon": 6.971268, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "dorszob", "name": "Dorsten ZOB", "lat": 51.65817, "lon": 6.968851, "announcementUrl": "/sounds/ruhleben.mp3" }
+       ]
+     }, 
+     {
+         "id": "re14dorstencoesfeld",
+         "name": "RE14",
+         "destination": "Dorsten ZOB - Coesfeld",
+         "stops": [
+          { "id": "dorszob", "name": "Dorsten ZOB", "lat": 51.65817, "lon": 6.968851, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "hervestdorsten", "name": "Dorsten-Hervest", "lat": 51.672158, "lon": 6.971268, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "wulfen", "name": "Wulfen", "lat": 51.721548, "lon": 7.013536, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "lembeck", "name": "Lembeck", "lat": 51.760615, "lon": 7.000426, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "kleinreken", "name": "Klein Reken", "lat": 51.788943, "lon": 7.039171, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "reken", "name": "Reken", "lat": 51.801622, "lon": 7.048944, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "mariaveen", "name": "Maria Veen", "lat": 51.838631, "lon": 7.097849, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "coesfeld", "name": "Coesfeld", "lat": 51.939981, "lon": 7.163941, "announcementUrl": "/sounds/ruhleben.mp3" }
+       ]
+     },  
+     {
+         "id": "re7hagenhbfhammhbf",
+         "name": "RE7",
+         "destination": "Hagen Hbf - Hamm Hbf",
+         "stops": [
+          { "id": "hahbf", "name": "Hagen Hbf", "lat": 51.362179, "lon": 7.462528, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "schwerte", "name": "Schwerte", "lat": 51.441682, "lon": 7.560235, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "holzwickede", "name": "Holzwickede", "lat": 51.503853, "lon": 7.620428, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "unna", "name": "Unna", "lat": 51.538425, "lon": 7.694021, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "bönen", "name": "Bönen", "lat": 51.5983, "lon": 7.757813, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "hammhbf", "name": "Hamm Hbf", "lat": 51.678229, "lon": 7.80944, "announcementUrl": "/sounds/ruhleben.mp3" }
+       ]
+     }, 
+     {
+         "id": "re9xkhbfaahbf",
+         "name": "RE9X",
+         "destination": "Köln Hbf - Aachen Hbf",
+         "stops": [
+          { "id": "khbf", "name": "Köln Hbf", "lat": 50.943038, "lon": 6.960795, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "düren", "name": "Düren", "lat": 50.809008, "lon": 6.480358, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "aarotheerde", "name": "Aachen-Rothe Erde", "lat": 50.770189, "lon": 6.117599, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "aahbf", "name": "Aachen Hbf", "lat": 50.768635, "lon": 6.089934, "announcementUrl": "/sounds/ruhleben.mp3" }
+       ]
      },  
      {
          "id": "re14ehbfdorzob",
