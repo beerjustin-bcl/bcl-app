@@ -346,7 +346,7 @@
           { "id": "bothbf", "name": "Bottrop Hbf", "lat": 51.509962, "lon": 6.936388, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "glawest", "name": "Gladbeck-West", "lat": 51.575134, "lon": 6.977295, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "dorszob", "name": "Dorsten ZOB", "lat": 51.65817, "lon": 6.968851, "announcementUrl": "/sounds/ruhleben.mp3" }
-       ]
+       ],
          "courses": [ 
           {
          "name": "1",
