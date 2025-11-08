@@ -237,7 +237,7 @@
           { "id": "neanderthal", "name": "Neanderthal", "lat": 51.226352, "lon": 6.950871, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "erkrathnord", "name": "Erkrath-Nord", "lat": 51.224409, "lon": 6.909712, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "gerresheims", "name": "Düsseldorf Gerresheim", "lat": 51.2206873, "lon": 6.8664335, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "dflingerns", "name": "D-Flingern", "lat": 51.2267114, "lon": 6.8116434, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "dflingern", "name": "D-Flingern", "lat": 51.2267114, "lon": 6.8116434, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "dhbf", "name": "Düsseldorf Hbf", "lat": 51.221859, "lon": 6.794208, "announcementUrl": "/sounds/ruhleben.mp3" }
        ]
      }, 
@@ -371,7 +371,7 @@
   }      
  ]           
 }
-  ]
+  ],
   "specialAnnouncements": [
     { "id": "sa-1", "text": "Bitte zurückbleiben", "announcementUrl": "/sounds/special/zurueckbleiben.mp3" },
     { "id": "sa-2", "text": "Endhaltestelle", "announcementUrl": "/sounds/special/endhaltestelle.mp3" }
