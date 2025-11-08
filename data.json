@@ -370,7 +370,7 @@
    ]
   }      
  ]           
-}
+},
   ],
   "specialAnnouncements": [
     { "id": "sa-1", "text": "Bitte zurückbleiben", "announcementUrl": "/sounds/special/zurueckbleiben.mp3" },
