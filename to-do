@@ -1,4 +1,6 @@
-Kurs - Umlauf - Zeiten Vorlage
+VORLAGE - ERKLÄRUNG:
+
+------ KURS // LINIE // ZEITEN ------
 
 {
   "lines": [
@@ -87,3 +89,44 @@ Kurs - Umlauf - Zeiten Vorlage
     }
   ]
 }
+
+
+----- WOCHENTAGE // GROUPS: ------
+
+"courses": [
+  {
+    "name": "101",
+    "tripGroups": [
+      {
+        "id": "mo-fr",
+        "name": "Montag - Freitag",
+        "trips": [
+          {
+            "stops": [
+              { "id": "stop-a", "departureTime": "08:00" },
+              { "id": "stop-b", "departureTime": "08:05" }
+            ]
+          },
+          {
+            "stops": [
+              { "id": "stop-a", "departureTime": "09:00" },
+              { "id": "stop-b", "departureTime": "09:05" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sa",
+        "name": "Samstag",
+        "trips": [
+          {
+            "stops": [
+              { "id": "stop-a", "departureTime": "10:00" },
+              { "id": "stop-b", "departureTime": "10:05" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
