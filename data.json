@@ -168,7 +168,7 @@
           { "id": "wobb", "name": "Wuppertal-Oberbarmen", "lat": 51.275283819845214, "lon": 7.2220850820158375, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "wbarmen", "name": "W-Barmen", "lat": 51.26781214466064, "lon": 7.195269197258028, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "wunterbarmen", "name": "W-Unterbarmen", "lat": 51.261384, "lon": 7.172246, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "whbf", "name": "Wuppertal Hbf", "lat": 51.25265388430978, "lon": 7.143519455386894, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "whbf", "name": "Wuppertal Hbf", "lat": 51.25265388430978, "lon": 7.143519455386894, "announcementUrl": "/sounds/wuppertalhbf.mp3" },
           { "id": "wsteinbeck", "name": "Wuppertal-Steinbeck", "lat": 51.249405, "lon": 7.140419, "announcementUrl": "/sounds/ruhleben.mp3" }
        ]
      },  
@@ -190,7 +190,7 @@
           { "id": "wsonnborn", "name": "W-Sonnborn", "lat": 51.23723, "lon": 7.098517, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "wzoo", "name": "W-Zoologischer Garten", "lat": 51.243067, "lon": 7.107361, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "wsteinbeck", "name": "W-Steinbeck", "lat": 51.249405, "lon": 7.140419, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "whbf", "name": "Wuppertal Hbf", "lat": 51.25265388430978, "lon": 7.143519455386894, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "whbf", "name": "Wuppertal Hbf", "lat": 51.25265388430978, "lon": 7.143519455386894, "announcementUrl": "/sounds/wuppertalhbf.mp3" },
           { "id": "wunterbarmen", "name": "W-Unterbarmen", "lat": 51.261384, "lon": 7.172246, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "wbarmen", "name": "W-Barmen", "lat": 51.26781214466064, "lon": 7.195269197258028, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "wobb", "name": "W-Oberbarmen", "lat": 51.275283819845214, "lon": 7.2220850820158375, "announcementUrl": "/sounds/ruhleben.mp3" },
@@ -227,7 +227,7 @@
          "name": "S28",
          "destination": "Wuppertal Hbf - Düsseldorf Hbf",
          "stops": [
-          { "id": "whbf", "name": "Wuppertal Hbf", "lat": 51.25265388430978, "lon": 7.143519455386894, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "whbf", "name": "Wuppertal Hbf", "lat": 51.25265388430978, "lon": 7.143519455386894, "announcementUrl": "/sounds/wuppertalhbf.mp3" },
           { "id": "wsteinbeck", "name": "W-Steinbeck", "lat": 51.249405, "lon": 7.140419, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "wzoo", "name": "W-Zoologischer Garten", "lat": 51.243067, "lon": 7.107361, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "wvohwinkel", "name": "W-Vohwinkel", "lat": 51.233996, "lon": 7.070404, "announcementUrl": "/sounds/ruhleben.mp3" },
