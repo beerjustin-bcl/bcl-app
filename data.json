@@ -373,7 +373,14 @@
 },
   ],
   "specialAnnouncements": [
-    { "id": "sa-1", "text": "Bitte zurückbleiben", "announcementUrl": "/sounds/special/zurueckbleiben.mp3" },
-    { "id": "sa-2", "text": "Endhaltestelle", "announcementUrl": "/sounds/special/endhaltestelle.mp3" }
+    { "id": "füße", "text": "Füße vom Sitz", "announcementUrl": "/sounds/special/zurueckbleiben.mp3" },
+    { "id": "sa-2", "text": "Endhaltestelle", "announcementUrl": "/sounds/special/endhaltestelle.mp3" },
+    { "id": "alkohol", "text": "Alkohol verboten", "announcementUrl": "/sounds/special/endhaltestelle.mp3" },
+    { "id": "willkommen", "text": "Willkommen", "announcementUrl": "/sounds/special/endhaltestelle.mp3" },
+    { "id": "setzenautobahn", "text": "Hinsetzen Autobahn", "announcementUrl": "/sounds/special/endhaltestelle.mp3" },
+    { "id": "türfreimachen", "text": "Türen freimachen", "announcementUrl": "/sounds/special/endhaltestelle.mp3" },
+    { "id": "festerhalt", "text": "Fester Halt", "announcementUrl": "/sounds/special/endhaltestelle.mp3" },
+    { "id": "essenverboten", "text": "Essen verboten", "announcementUrl": "/sounds/special/endhaltestelle.mp3" },
+    { "id": "kurzepause", "text": "Kurzer Aufenthalt", "announcementUrl": "/sounds/special/endhaltestelle.mp3" }
   ]
 }
