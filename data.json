@@ -384,6 +384,7 @@
     { "id": "setzenautobahn", "text": "Hinsetzen Autobahn", "announcementUrl": "/sounds/hinsetzenautobahn.mp3" },
     { "id": "festerhalt", "text": "Fester Halt", "announcementUrl": "/sounds/festerhalt.mp3" },
     { "id": "essenverboten", "text": "Essen verboten", "announcementUrl": "/sounds/essenverboten.mp3" },
-    { "id": "platzhalter", "text": "Platzhalter", "announcementUrl": "/sounds/endhaltestelle.mp3" }
+    { "id": "rauchenverboten", "text": "Rauchen verboten", "announcementUrl": "/sounds/rauchenverboten.mp3" },
+    { "id": "durchgehenbitte", "text": "Durchgehen bitte", "announcementUrl": "/sounds/durchgehenbitte.mp3" }
   ]
 }
