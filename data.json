@@ -28,10 +28,10 @@
        "name": "XNL", 
        "destination": "Oberhausen - Arnhem", 
        "stops": [
-         { "id": "obhbf", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "wesel", "name": "Wesel", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-         { "id": "emmerich", "name": "Emmerich", "lat": 51.8336506, "lon": 6.2549007, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-         { "id": "arnhem", "name": "Arnhem Central", "lat": 51.9835483, "lon": 5.9001715, "announcementUrl": "/sounds/olympia-stadion.mp3" } 
+         { "id": "obhbf", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/oberhausenhbf.mp3" },
+         { "id": "wesel", "name": "Wesel", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/wesel.mp3" },
+         { "id": "emmerich", "name": "Emmerich", "lat": 51.8336506, "lon": 6.2549007, "announcementUrl": "/sounds/emmerich.mp3" },
+         { "id": "arnhem", "name": "Arnhem Central", "lat": 51.9835483, "lon": 5.9001715, "announcementUrl": "/sounds/arnhemcentral.mp3" } 
        ]  
     },
     {
@@ -39,21 +39,21 @@
         "name": "RE19L", 
         "destination": "Oberhausen - Emmerich", 
         "stops": [
-         { "id": "obhbf", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "obhbf", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/oberhausenhbf.mp3" },
          { "id": "obsterkrade", "name": "OB-Sterkrade", "lat": 51.512022, "lon": 6.684436, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "obholten", "name": "OB-Holten", "lat": 51.534056488324524, "lon": 6.809986748979696, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "dinslaken", "name": "Dinslaken", "lat": 51.56680321489091, "lon": 6.73674948095362, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "voerde", "name": "Voerde", "lat": 51.59814789549506, "lon": 6.690545747606961, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "friedrichsfeld", "name": "Friedrichsfeld", "lat": 51.622373, "lon": 6.651855, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "friedrichsfeldpost", "name": "Friedrichsfeld Post", "lat": 51.62799348437696, "lon": 6.650489540813595, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "wesel", "name": "Wesel", "lat": 51.6562, "lon": 6.628167, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "wesel", "name": "Wesel", "lat": 51.6562, "lon": 6.628167, "announcementUrl": "/sounds/wesel.mp3" },
          { "id": "weselfeldmark", "name": "Wesel-Feldmark", "lat": 51.675432041096286, "lon": 6.60915235097292, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "mehrhoog", "name": "Mehrhoog", "lat": 51.739290395499296, "lon": 6.516616908759403, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "haldern", "name": "Haldern (Weseler Landstr.)", "lat": 51.77123, "lon": 6.454998, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "empelrees", "name": "Empel-Rees", "lat": 51.797642, "lon": 6.417421, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "millingen", "name": "Millingen", "lat": 51.809371, "lon": 6.399873, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "praestkirche", "name": "Praest Kirche", "lat": 51.821331, "lon": 6.339867, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "emmerich", "name": "Emmerich", "lat": 51.8336506, "lon": 6.2549007, "announcementUrl": "/sounds/olympia-stadion.mp3" }
+         { "id": "emmerich", "name": "Emmerich", "lat": 51.8336506, "lon": 6.2549007, "announcementUrl": "/sounds/emmerich.mp3" }
        ]
      },
      {
@@ -61,8 +61,8 @@
         "name": "RE19", 
         "destination": "Oberhausen - Bocholt", 
         "stops": [
-         { "id": "obhbf", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "wesel", "name": "Wesel", "lat": 51.6562, "lon": 6.628167, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "obhbf", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/oberhausenhbf.mp3" },
+         { "id": "wesel", "name": "Wesel", "lat": 51.6562, "lon": 6.628167, "announcementUrl": "/sounds/wesel.mp3" },
          { "id": "weselblumenkamp", "name": "Wesel-Blumenkamp", "lat": 51.692356, "lon": 6.607253, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "hamminkeln", "name": "Hamminkeln", "lat": 51.735209, "lon": 6.601278, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "hamminkelndingden", "name": "Hamminkeln-Dingden", "lat": 51.770333, "lon": 6.608268, "announcementUrl": "/sounds/ruhleben.mp3" },
@@ -295,7 +295,7 @@
           { "id": "rhade", "name": "Rhade", "lat": 51.75232, "lon": 6.945053, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "deuten", "name": "Deuten", "lat": 51.713061, "lon": 6.971241, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "hervestdorsten", "name": "Dorsten-Hervest", "lat": 51.672158, "lon": 6.971268, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "dorszob", "name": "Dorsten ZOB", "lat": 51.65817, "lon": 6.968851, "announcementUrl": "/sounds/ruhleben.mp3" }
+          { "id": "dorszob", "name": "Dorsten ZOB", "lat": 51.65817, "lon": 6.968851, "announcementUrl": "/sounds/dorstenzob.mp3" }
        ]
      }, 
      {
@@ -303,7 +303,7 @@
          "name": "RE14",
          "destination": "Dorsten ZOB - Coesfeld",
          "stops": [
-          { "id": "dorszob", "name": "Dorsten ZOB", "lat": 51.65817, "lon": 6.968851, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "dorszob", "name": "Dorsten ZOB", "lat": 51.65817, "lon": 6.968851, "announcementUrl": "/sounds/dorstenzob.mp3" },
           { "id": "hervestdorsten", "name": "Dorsten-Hervest", "lat": 51.672158, "lon": 6.971268, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "wulfen", "name": "Wulfen", "lat": 51.721548, "lon": 7.013536, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "lembeck", "name": "Lembeck", "lat": 51.760615, "lon": 7.000426, "announcementUrl": "/sounds/ruhleben.mp3" },
