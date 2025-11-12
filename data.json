@@ -5,8 +5,8 @@
       "name": "RE19X",
       "destination": "Oberhausen - Wesel",
       "stops": [
-        { "id": "obhbf", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" },
-        { "id": "wesel", "name": "Wesel", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/olympia-stadion.mp3" }
+        { "id": "obhbf", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/oberhausenhbf.mp3" },
+        { "id": "wesel", "name": "Wesel", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/wesel.mp3" }
       ]
     },
     {
@@ -14,12 +14,12 @@
        "name": "RE19X", 
        "destination": "Oberhausen - Arnhem", 
        "stops": [
-         { "id": "obhbf", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "wesel", "name": "Wesel", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-         { "id": "emmerich", "name": "Emmerich", "lat": 51.8336506, "lon": 6.2549007, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-         { "id": "emmerichelten", "name": "Emmerich-Elten", "lat": 51.8743836, "lon": 6.1538099, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-         { "id": "zevenaar", "name": "Zevenaar", "lat": 51.9234546, "lon": 6.0729815, "announcementUrl": "/sounds/olympia-stadion.mp3" },
-         { "id": "arnhem", "name": "Arnhem Central", "lat": 51.9835483, "lon": 5.9001715, "announcementUrl": "/sounds/olympia-stadion.mp3" }
+         { "id": "obhbf", "name": "Oberhausen Hbf", "lat": 51.4748520, "lon": 6.8495203, "announcementUrl": "/sounds/oberhausenhbf.mp3" },
+         { "id": "wesel", "name": "Wesel", "lat": 51.6511779, "lon": 6.6321018, "announcementUrl": "/sounds/wesel.mp3" },
+         { "id": "emmerich", "name": "Emmerich", "lat": 51.8336506, "lon": 6.2549007, "announcementUrl": "/sounds/emmerich.mp3" },
+         { "id": "emmerichelten", "name": "Emmerich-Elten", "lat": 51.8743836, "lon": 6.1538099, "announcementUrl": "/sounds/emmerichelten.mp3" },
+         { "id": "zevenaar", "name": "Zevenaar", "lat": 51.9234546, "lon": 6.0729815, "announcementUrl": "/sounds/zevenaar.mp3" },
+         { "id": "arnhem", "name": "Arnhem Central", "lat": 51.9835483, "lon": 5.9001715, "announcementUrl": "/sounds/arnhemcentral.mp3" }
       ],
       "gpxUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/refs/heads/main/gpx/ELTENSPERRUNG_RE%2019%20Oberhausen%20Hauptbahnhof-Arnheim%20Centraal.gpx"
     },
