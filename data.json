@@ -350,7 +350,7 @@
          "courses": [ 
           {
          "name": "1",
-         "gpxUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/refs/heads/main/gpx/ELTENSPERRUNG_RE%2019%20Oberhausen%20Hauptbahnhof-Arnheim%20Centraal.gpx"
+         "gpxUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/refs/heads/main/gpx/ELTENSPERRUNG_RE%2019%20Oberhausen%20Hauptbahnhof-Arnheim%20Centraal.gpx",
          "trips": [
           {
          "stops": [
