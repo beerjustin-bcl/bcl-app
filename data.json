@@ -76,10 +76,10 @@
         "stops": [
          { "id": "dohbf", "name": "Dortmund Hbf", "lat": 51.518995, "lon": 7.459408, "announcementUrl": "/sounds/dohbf.mp3" },
          { "id": "dodorstfeld", "name": "DO-Dorstfeld", "lat": 51.5099094, "lon": 7.4239469, "announcementUrl": "/sounds/dodorstfeld.mp3" },
-         { "id": "dodorstfeldsüd", "name": "DO-Dorstfeld Süd", "lat": 51.5013043, "lon": 7.4180878, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "douni", "name": "DO-Universität", "lat": 51.492859, "lon": 7.416147, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "dodorstfeldsüd", "name": "DO-Dorstfeld Süd", "lat": 51.5013043, "lon": 7.4180878, "announcementUrl": "/sounds/dodorstfeldsüd.mp3" },
+         { "id": "douni", "name": "DO-Universität", "lat": 51.492859, "lon": 7.416147, "announcementUrl": "/sounds/douni.mp3" },
          { "id": "dokley", "name": "DO-Kley", "lat": 51.4894914, "lon": 7.3647464, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "bolangendreer", "name": "Bochum-Langendreer", "lat": 51.477298, "lon": 7.3234765, "announcementUrl": "/sounds/ruhleben.mp3" },
+         { "id": "bolangendreer", "name": "Bochum-Langendreer", "lat": 51.477298, "lon": 7.3234765, "announcementUrl": "/sounds/bolangendreer.mp3" },
          { "id": "bolangendreerwest", "name": "BO-Langendreer West", "lat": 51.478145, "lon": 7.30213, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "bohbf", "name": "Bochum Hbf", "lat": 51.477419, "lon": 7.2245544, "announcementUrl": "/sounds/ruhleben.mp3" },
          { "id": "boehrenfeld", "name": "BO-Ehrenfeld", "lat": 51.4724479, "lon": 7.2109696, "announcementUrl": "/sounds/ruhleben.mp3" },
