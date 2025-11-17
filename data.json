@@ -80,13 +80,13 @@
          { "id": "douni", "name": "DO-Universität", "lat": 51.492859, "lon": 7.416147, "announcementUrl": "/sounds/douni.mp3" },
          { "id": "dokley", "name": "DO-Kley", "lat": 51.4894914, "lon": 7.3647464, "announcementUrl": "/sounds/ACHTUNGA.mp3" },
          { "id": "bolangendreer", "name": "Bochum-Langendreer", "lat": 51.477298, "lon": 7.3234765, "announcementUrl": "/sounds/bolangendreer.mp3" },
-         { "id": "bolangendreerwest", "name": "BO-Langendreer West", "lat": 51.478145, "lon": 7.30213, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "bohbf", "name": "Bochum Hbf", "lat": 51.477419, "lon": 7.2245544, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "boehrenfeld", "name": "BO-Ehrenfeld", "lat": 51.4724479, "lon": 7.2109696, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "wathöntrop", "name": "Wattenscheid-Höntrop", "lat": 51.460258, "lon": 7.154636, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "eeiberg", "name": "Essen-Eiberg", "lat": 51.4433159, "lon": 7.1099588, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "esteeleost", "name": "E-Steele Ost", "lat": 51.4445032, "lon": 7.0892624, "announcementUrl": "/sounds/ruhleben.mp3" },
-         { "id": "esteele", "name": "Essen-Steele", "lat": 51.450353, "lon": 7.075661, "announcementUrl": "/sounds/ruhleben.mp3" }
+         { "id": "bolangendreerwest", "name": "BO-Langendreer West", "lat": 51.478145, "lon": 7.30213, "announcementUrl": "/sounds/bolangwest.mp3" },
+         { "id": "bohbf", "name": "Bochum Hbf", "lat": 51.477419, "lon": 7.2245544, "announcementUrl": "/sounds/bohbf.mp3" },
+         { "id": "boehrenfeld", "name": "BO-Ehrenfeld", "lat": 51.4724479, "lon": 7.2109696, "announcementUrl": "/sounds/boehrenfeld.mp3" },
+         { "id": "wathöntrop", "name": "Wattenscheid-Höntrop", "lat": 51.460258, "lon": 7.154636, "announcementUrl": "/sounds/watthoentrop.mp3" },
+         { "id": "eeiberg", "name": "Essen-Eiberg", "lat": 51.4433159, "lon": 7.1099588, "announcementUrl": "/sounds/eeiberg.mp3" },
+         { "id": "esteeleost", "name": "E-Steele Ost", "lat": 51.4445032, "lon": 7.0892624, "announcementUrl": "/sounds/esteeleost.mp3" },
+         { "id": "esteele", "name": "Essen-Steele", "lat": 51.450353, "lon": 7.075661, "announcementUrl": "/sounds/esteele.mp3" }
        ]
      },
      {
