@@ -165,11 +165,11 @@
          "name": "S8",
          "destination": "W-Oberbarmen - W-Steinbeck",
          "stops": [
-          { "id": "wobb", "name": "Wuppertal-Oberbarmen", "lat": 51.275283819845214, "lon": 7.2220850820158375, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "wbarmen", "name": "W-Barmen", "lat": 51.26781214466064, "lon": 7.195269197258028, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "wunterbarmen", "name": "W-Unterbarmen", "lat": 51.261384, "lon": 7.172246, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "whbf", "name": "Wuppertal Hbf", "lat": 51.25265388430978, "lon": 7.143519455386894, "announcementUrl": "/sounds/wuppertalhbf.mp3" },
-          { "id": "wsteinbeck", "name": "Wuppertal-Steinbeck", "lat": 51.249405, "lon": 7.140419, "announcementUrl": "/sounds/ruhleben.mp3" }
+          { "id": "wobb", "name": "Wuppertal-Oberbarmen", "lat": 51.275283819845214, "lon": 7.2220850820158375, "announcementUrl": "/sounds/woberbarmen.mp3" },
+          { "id": "wbarmen", "name": "W-Barmen", "lat": 51.26781214466064, "lon": 7.195269197258028, "announcementUrl": "/sounds/wbarmen.mp3" },
+          { "id": "wunterbarmen", "name": "W-Unterbarmen", "lat": 51.261384, "lon": 7.172246, "announcementUrl": "/sounds/wunterbarmen.mp3" },
+          { "id": "whbf", "name": "Wuppertal Hbf", "lat": 51.25265388430978, "lon": 7.143519455386894, "announcementUrl": "/sounds/whbf.mp3" },
+          { "id": "wsteinbeck", "name": "Wuppertal-Steinbeck", "lat": 51.249405, "lon": 7.140419, "announcementUrl": "/sounds/wsteinbeck.mp3" }
        ]
      },  
      {
@@ -177,33 +177,31 @@
          "name": "S8",
          "destination": "Düsseldorf Hbf - Hagen Hbf",
          "stops": [
-          { "id": "dhbf", "name": "Düsseldorf Hbf", "lat": 51.221859, "lon": 6.794208, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "dflingern", "name": "D-Flingern", "lat": 51.226696762356454, "lon": 6.811662861392989, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "dgerresheim", "name": "D-Gerresheim", "lat": 51.220682, "lon": 6.866426, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "erkrath", "name": "Erkrath", "lat": 51.220685, "lon": 6.902059, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "hochdahl", "name": "Hochdahl", "lat": 51.219384031910124, "lon": 6.943692518284109, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "hochdahlmilrath", "name": "Hochdahl-Milrath", "lat": 51.216809, "lon": 6.96684, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "wsonnborn", "name": "Haan-Gruiten", "lat": 51.23723, "lon": 7.098517, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "wvohwinkel", "name": "W-Vohwinkel", "lat": 51.233996, "lon": 7.070404, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "haangruiten", "name": "Haan-Gruiten", "lat": 51.215122, "lon": 7.010866, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "wvohwinkel", "name": "W-Vohwinkel", "lat": 51.233996, "lon": 7.070404, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "wsonnborn", "name": "W-Sonnborn", "lat": 51.23723, "lon": 7.098517, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "wzoo", "name": "W-Zoologischer Garten", "lat": 51.243067, "lon": 7.107361, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "wsteinbeck", "name": "W-Steinbeck", "lat": 51.249405, "lon": 7.140419, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "whbf", "name": "Wuppertal Hbf", "lat": 51.25265388430978, "lon": 7.143519455386894, "announcementUrl": "/sounds/wuppertalhbf.mp3" },
-          { "id": "wunterbarmen", "name": "W-Unterbarmen", "lat": 51.261384, "lon": 7.172246, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "wbarmen", "name": "W-Barmen", "lat": 51.26781214466064, "lon": 7.195269197258028, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "wobb", "name": "W-Oberbarmen", "lat": 51.275283819845214, "lon": 7.2220850820158375, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "wlangerfeld", "name": "W-Langerfeld", "lat": 51.274367, "lon": 7.243883, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "schwelmwest", "name": "Schwelm-West", "lat": 51.285135, "lon": 7.27097, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "schwelm", "name": "Schwelm", "lat": 51.290099, "lon": 7.290099, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "gevelsbergkipp", "name": "Gevelsberg-Kipp", "lat": 51.31978638233144, "lon": 7.325963969928665, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "gevelsberghbf", "name": "Gevelsberg Hbf", "lat": 51.32391, "lon": 7.339234, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "gevelsbergknapp", "name": "Gevelsberg-Knapp", "lat": 51.335605, "lon": 7.381286, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "hawesterbauer", "name": "Hagen-Westerbauer", "lat": 51.339565, "lon": 7.396568, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "haheubing", "name": "HA-Heubing", "lat": 51.35205115009185, "lon": 7.423382060351628, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "hawehringhausen", "name": "HA-Wehringhausen", "lat": 51.3545265372231, "lon": 7.453159236205408, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "hahbf", "name": "Hagen Hbf", "lat": 51.362179, "lon": 7.462528, "announcementUrl": "/sounds/ruhleben.mp3" }
+          { "id": "dhbf", "name": "Düsseldorf Hbf", "lat": 51.221859, "lon": 6.794208, "announcementUrl": "/sounds/dhbf.mp3" },
+          { "id": "dflingern", "name": "D-Flingern", "lat": 51.226696762356454, "lon": 6.811662861392989, "announcementUrl": "/sounds/dflingern.mp3" },
+          { "id": "dgerresheim", "name": "D-Gerresheim", "lat": 51.220682, "lon": 6.866426, "announcementUrl": "/sounds/dgerresheim.mp3" },
+          { "id": "erkrath", "name": "Erkrath", "lat": 51.220685, "lon": 6.902059, "announcementUrl": "/sounds/erkrath.mp3" },
+          { "id": "hochdahl", "name": "Hochdahl", "lat": 51.219384031910124, "lon": 6.943692518284109, "announcementUrl": "/sounds/hochdahl.mp3" },
+          { "id": "hochdahlmilrath", "name": "Hochdahl-Milrath", "lat": 51.216809, "lon": 6.96684, "announcementUrl": "/sounds/hochdahlmilrath.mp3" },
+          { "id": "wsonnborn", "name": "Haan-Gruiten", "lat": 51.23723, "lon": 7.098517, "announcementUrl": "/sounds/haangruiten.mp3" },
+          { "id": "wvohwinkel", "name": "W-Vohwinkel", "lat": 51.233996, "lon": 7.070404, "announcementUrl": "/sounds/wvohwinkel.mp3" },
+          { "id": "wsonnborn", "name": "W-Sonnborn", "lat": 51.23723, "lon": 7.098517, "announcementUrl": "/sounds/wsonnborn.mp3" },
+          { "id": "wzoo", "name": "W-Zoologischer Garten", "lat": 51.243067, "lon": 7.107361, "announcementUrl": "/sounds/wzoo.mp3" },
+          { "id": "wsteinbeck", "name": "W-Steinbeck", "lat": 51.249405, "lon": 7.140419, "announcementUrl": "/sounds/wsteinbeck.mp3" },
+          { "id": "whbf", "name": "Wuppertal Hbf", "lat": 51.25265388430978, "lon": 7.143519455386894, "announcementUrl": "/sounds/whbf.mp3" },
+          { "id": "wunterbarmen", "name": "W-Unterbarmen", "lat": 51.261384, "lon": 7.172246, "announcementUrl": "/sounds/wunterbarmen.mp3" },
+          { "id": "wbarmen", "name": "W-Barmen", "lat": 51.26781214466064, "lon": 7.195269197258028, "announcementUrl": "/sounds/wbarmen.mp3" },
+          { "id": "wobb", "name": "W-Oberbarmen", "lat": 51.275283819845214, "lon": 7.2220850820158375, "announcementUrl": "/sounds/woberbarmen.mp3" },
+          { "id": "wlangerfeld", "name": "W-Langerfeld", "lat": 51.274367, "lon": 7.243883, "announcementUrl": "/sounds/wlangerfeld.mp3" },
+          { "id": "schwelmwest", "name": "Schwelm-West", "lat": 51.285135, "lon": 7.27097, "announcementUrl": "/sounds/schwelmwest.mp3" },
+          { "id": "schwelm", "name": "Schwelm", "lat": 51.290099, "lon": 7.290099, "announcementUrl": "/sounds/schwelm.mp3" },
+          { "id": "gevelsbergkipp", "name": "Gevelsberg-Kipp", "lat": 51.31978638233144, "lon": 7.325963969928665, "announcementUrl": "/sounds/gevkipp.mp3" },
+          { "id": "gevelsberghbf", "name": "Gevelsberg Hbf", "lat": 51.32391, "lon": 7.339234, "announcementUrl": "/sounds/gevhbf.mp3" },
+          { "id": "gevelsbergknapp", "name": "Gevelsberg-Knapp", "lat": 51.335605, "lon": 7.381286, "announcementUrl": "/sounds/gevknapp.mp3" },
+          { "id": "hawesterbauer", "name": "Hagen-Westerbauer", "lat": 51.339565, "lon": 7.396568, "announcementUrl": "/sounds/hawesterbauer.mp3" },
+          { "id": "haheubing", "name": "HA-Heubing", "lat": 51.35205115009185, "lon": 7.423382060351628, "announcementUrl": "/sounds/haheubing.mp3" },
+          { "id": "hawehringhausen", "name": "HA-Wehringhausen", "lat": 51.3545265372231, "lon": 7.453159236205408, "announcementUrl": "/sounds/hawehringhausen.mp3" },
+          { "id": "hahbf", "name": "Hagen Hbf", "lat": 51.362179, "lon": 7.462528, "announcementUrl": "/sounds/hahbf.mp3" }
        ]
      },
      {
@@ -227,18 +225,18 @@
          "name": "S28",
          "destination": "Wuppertal Hbf - Düsseldorf Hbf",
          "stops": [
-          { "id": "whbf", "name": "Wuppertal Hbf", "lat": 51.25265388430978, "lon": 7.143519455386894, "announcementUrl": "/sounds/wuppertalhbf.mp3" },
-          { "id": "wsteinbeck", "name": "W-Steinbeck", "lat": 51.249405, "lon": 7.140419, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "wzoo", "name": "W-Zoologischer Garten", "lat": 51.243067, "lon": 7.107361, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "wvohwinkel", "name": "W-Vohwinkel", "lat": 51.233996, "lon": 7.070404, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "whbf", "name": "Wuppertal Hbf", "lat": 51.25265388430978, "lon": 7.143519455386894, "announcementUrl": "/sounds/whbf.mp3" },
+          { "id": "wsteinbeck", "name": "W-Steinbeck", "lat": 51.249405, "lon": 7.140419, "announcementUrl": "/sounds/wsteinbeck.mp3" },
+          { "id": "wzoo", "name": "W-Zoologischer Garten", "lat": 51.243067, "lon": 7.107361, "announcementUrl": "/sounds/wzoo.mp3" },
+          { "id": "wvohwinkel", "name": "W-Vohwinkel", "lat": 51.233996, "lon": 7.070404, "announcementUrl": "/sounds/wvohwinkel.mp3" },
           { "id": "whahnenfurth", "name": "W-Hahnenfurth", "lat": 51.254335, "lon": 7.056901, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "mestadtwald", "name": "Mettmann-Stadtwald", "lat": 51.25075515, "lon": 6.98795856, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "mezentrum", "name": "ME-Zentrum", "lat": 51.24909, "lon": 6.978337, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "neanderthal", "name": "Neanderthal", "lat": 51.226352, "lon": 6.950871, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "erkrathnord", "name": "Erkrath-Nord", "lat": 51.224409, "lon": 6.909712, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "gerresheims", "name": "Düsseldorf Gerresheim", "lat": 51.2206873, "lon": 6.8664335, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "dflingern", "name": "D-Flingern", "lat": 51.2267114, "lon": 6.8116434, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "dhbf", "name": "Düsseldorf Hbf", "lat": 51.221859, "lon": 6.794208, "announcementUrl": "/sounds/ruhleben.mp3" }
+          { "id": "gerresheims", "name": "Düsseldorf Gerresheim", "lat": 51.2206873, "lon": 6.8664335, "announcementUrl": "/sounds/dgerresheim.mp3" },
+          { "id": "dflingern", "name": "D-Flingern", "lat": 51.2267114, "lon": 6.8116434, "announcementUrl": "/sounds/dflingern.mp3" },
+          { "id": "dhbf", "name": "Düsseldorf Hbf", "lat": 51.221859, "lon": 6.794208, "announcementUrl": "/sounds/dhbf.mp3" }
        ]
      }, 
      {
@@ -246,11 +244,11 @@
          "name": "RE2",
          "destination": "Essen Hbf - Düsseldorf Hbf",
          "stops": [
-          { "id": "dhbf", "name": "Düsseldorf Hbf", "lat": 51.221859, "lon": 6.794208, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "dhbf", "name": "Düsseldorf Hbf", "lat": 51.221859, "lon": 6.794208, "announcementUrl": "/sounds/dhbf.mp3" },
           { "id": "dflughafen", "name": "D-Flughafen", "lat": 51.291169, "lon": 6.78807, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "duhbf", "name": "Duisburg Hbf/Osteingang", "lat": 51.429956, "lon": 6.77731, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "mülheimhbf", "name": "Mülheim Hbf", "lat": 51.431779, "lon": 6.887136, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "ehbf", "name": "Essen Hbf", "lat": 51.45022, "lon": 7.010336, "announcementUrl": "/sounds/ruhleben.mp3" }
+          { "id": "ehbf", "name": "Essen Hbf", "lat": 51.45022, "lon": 7.010336, "announcementUrl": "/sounds/ehbf.mp3" }
        ]
      },
      {
@@ -263,7 +261,7 @@
           { "id": "rehbf", "name": "Recklinghausen Hbf", "lat": 51.616009, "lon": 7.2038876, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "wanneeickel", "name": "Wanne-Eickel Hbf", "lat": 51.5320128, "lon": 7.1658563, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "gehbf", "name": "Gelsenkirchen Hbf", "lat": 51.5058493, "lon": 7.1000409, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "ehbf", "name": "Essen Hbf", "lat": 51.45022, "lon": 7.010336, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "ehbf", "name": "Essen Hbf", "lat": 51.45022, "lon": 7.010336, "announcementUrl": "/sounds/ehbf.mp3" },
           { "id": "sythen", "name": "Sythen", "lat": 51.7721872, "lon": 7.2257172, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "dülmen", "name": "Dülmen", "lat": 51.8285857, "lon": 7.29399, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "buldern", "name": "Buldern", "lat": 51.8622918, "lon": 7.3724699, "announcementUrl": "/sounds/ruhleben.mp3" },
@@ -279,10 +277,10 @@
          "destination": "Gelsenkirchen Hbf - Duisburg Hbf",
          "stops": [
           { "id": "gehbf", "name": "Gelsenkirchen Hbf", "lat": 51.505644, "lon": 7.100352, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "ehbf", "name": "Essen Hbf", "lat": 51.45022, "lon": 7.010336, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "ehbf", "name": "Essen Hbf", "lat": 51.45022, "lon": 7.010336, "announcementUrl": "/sounds/ehbf.mp3" },
           { "id": "mülheimhbf", "name": "Mülheim Hbf", "lat": 51.431779, "lon": 6.887136, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "dflughafen", "name": "D-Flughafen", "lat": 51.291169, "lon": 6.78807, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "dhbf", "name": "Düsseldorf Hbf", "lat": 51.221859, "lon": 6.794208, "announcementUrl": "/sounds/ruhleben.mp3" }
+          { "id": "dhbf", "name": "Düsseldorf Hbf", "lat": 51.221859, "lon": 6.794208, "announcementUrl": "/sounds/dhbf.mp3" }
        ]
      },
      {
@@ -318,7 +316,7 @@
          "name": "RE7",
          "destination": "Hagen Hbf - Hamm Hbf",
          "stops": [
-          { "id": "hahbf", "name": "Hagen Hbf", "lat": 51.362179, "lon": 7.462528, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "hahbf", "name": "Hagen Hbf", "lat": 51.362179, "lon": 7.462528, "announcementUrl": "/sounds/hahbf.mp3" },
           { "id": "schwerte", "name": "Schwerte", "lat": 51.441682, "lon": 7.560235, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "holzwickede", "name": "Holzwickede", "lat": 51.503853, "lon": 7.620428, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "unna", "name": "Unna", "lat": 51.538425, "lon": 7.694021, "announcementUrl": "/sounds/ruhleben.mp3" },
@@ -331,7 +329,7 @@
          "name": "RE9X",
          "destination": "Köln Hbf - Aachen Hbf",
          "stops": [
-          { "id": "khbf", "name": "Köln Hbf", "lat": 50.943038, "lon": 6.960795, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "khbf", "name": "Köln Hbf", "lat": 50.943038, "lon": 6.960795, "announcementUrl": "/sounds/khbf.mp3" },
           { "id": "düren", "name": "Düren", "lat": 50.809008, "lon": 6.480358, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "aarotheerde", "name": "Aachen-Rothe Erde", "lat": 50.770189, "lon": 6.117599, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "aahbf", "name": "Aachen Hbf", "lat": 50.768635, "lon": 6.089934, "announcementUrl": "/sounds/ruhleben.mp3" }
@@ -342,7 +340,7 @@
          "name": "RE14",
          "destination": "Essen Hbf - Dorsten ZOB",
          "stops": [
-          { "id": "ehbf", "name": "Essen Hbf", "lat": 51.450164, "lon": 7.010061, "announcementUrl": "/sounds/essenhbf.mp3" },
+          { "id": "ehbf", "name": "Essen Hbf", "lat": 51.450164, "lon": 7.010061, "announcementUrl": "/sounds/ehbf.mp3" },
           { "id": "bothbf", "name": "Bottrop Hbf", "lat": 51.509962, "lon": 6.936388, "announcementUrl": "/sounds/bottrophbf.mp3" },
           { "id": "glawest", "name": "Gladbeck-West", "lat": 51.575134, "lon": 6.977295, "announcementUrl": "/sounds/glawest.mp3" },
           { "id": "dorszob", "name": "Dorsten ZOB", "lat": 51.65817, "lon": 6.968851, "announcementUrl": "/sounds/dorstenzob.mp3" }
