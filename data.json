@@ -229,11 +229,11 @@
           { "id": "wsteinbeck", "name": "W-Steinbeck", "lat": 51.249405, "lon": 7.140419, "announcementUrl": "/sounds/wsteinbeck.mp3" },
           { "id": "wzoo", "name": "W-Zoologischer Garten", "lat": 51.243067, "lon": 7.107361, "announcementUrl": "/sounds/wzoo.mp3" },
           { "id": "wvohwinkel", "name": "W-Vohwinkel", "lat": 51.233996, "lon": 7.070404, "announcementUrl": "/sounds/wvohwinkel.mp3" },
-          { "id": "whahnenfurth", "name": "W-Hahnenfurth", "lat": 51.254335, "lon": 7.056901, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "mestadtwald", "name": "Mettmann-Stadtwald", "lat": 51.25075515, "lon": 6.98795856, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "mezentrum", "name": "ME-Zentrum", "lat": 51.24909, "lon": 6.978337, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "neanderthal", "name": "Neanderthal", "lat": 51.226352, "lon": 6.950871, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "erkrathnord", "name": "Erkrath-Nord", "lat": 51.224409, "lon": 6.909712, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "whahnenfurth", "name": "W-Hahnenfurth", "lat": 51.254335, "lon": 7.056901, "announcementUrl": "/sounds/whahnenfurth.mp3" },
+          { "id": "mestadtwald", "name": "Mettmann-Stadtwald", "lat": 51.25075515, "lon": 6.98795856, "announcementUrl": "/sounds/mestadtwald.mp3" },
+          { "id": "mezentrum", "name": "ME-Zentrum", "lat": 51.24909, "lon": 6.978337, "announcementUrl": "/sounds/mezentrum.mp3" },
+          { "id": "neanderthal", "name": "Neanderthal", "lat": 51.226352, "lon": 6.950871, "announcementUrl": "/sounds/neanderthal.mp3" },
+          { "id": "erkrathnord", "name": "Erkrath-Nord", "lat": 51.224409, "lon": 6.909712, "announcementUrl": "/sounds/erkrathnord.mp3" },
           { "id": "gerresheims", "name": "Düsseldorf Gerresheim", "lat": 51.2206873, "lon": 6.8664335, "announcementUrl": "/sounds/dgerresheim.mp3" },
           { "id": "dflingern", "name": "D-Flingern", "lat": 51.2267114, "lon": 6.8116434, "announcementUrl": "/sounds/dflingern.mp3" },
           { "id": "dhbf", "name": "Düsseldorf Hbf", "lat": 51.221859, "lon": 6.794208, "announcementUrl": "/sounds/dhbf.mp3" }
@@ -245,9 +245,9 @@
          "destination": "Essen Hbf - Düsseldorf Hbf",
          "stops": [
           { "id": "dhbf", "name": "Düsseldorf Hbf", "lat": 51.221859, "lon": 6.794208, "announcementUrl": "/sounds/dhbf.mp3" },
-          { "id": "dflughafen", "name": "D-Flughafen", "lat": 51.291169, "lon": 6.78807, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "duhbf", "name": "Duisburg Hbf/Osteingang", "lat": 51.429956, "lon": 6.77731, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "mülheimhbf", "name": "Mülheim Hbf", "lat": 51.431779, "lon": 6.887136, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "dflughafen", "name": "D-Flughafen", "lat": 51.291169, "lon": 6.78807, "announcementUrl": "/sounds/dflughafen.mp3" },
+          { "id": "duhbf", "name": "Duisburg Hbf/Osteingang", "lat": 51.429956, "lon": 6.77731, "announcementUrl": "/sounds/duhbfost.mp3" },
+          { "id": "mülheimhbf", "name": "Mülheim Hbf", "lat": 51.431779, "lon": 6.887136, "announcementUrl": "/sounds/muelheimhbf.mp3" },
           { "id": "ehbf", "name": "Essen Hbf", "lat": 51.45022, "lon": 7.010336, "announcementUrl": "/sounds/ehbf.mp3" }
        ]
      },
@@ -256,19 +256,19 @@
          "name": "RE2/42",
          "destination": "Haltern am See - Münster Hbf",
          "stops": [
-          { "id": "halternamsee", "name": "Haltern am See", "lat": 51.7382085, "lon": 7.1845887, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "marlsinsen", "name": "Marl-Sinsen", "lat": 51.6683747, "lon": 7.1735299, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "rehbf", "name": "Recklinghausen Hbf", "lat": 51.616009, "lon": 7.2038876, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "wanneeickel", "name": "Wanne-Eickel Hbf", "lat": 51.5320128, "lon": 7.1658563, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "gehbf", "name": "Gelsenkirchen Hbf", "lat": 51.5058493, "lon": 7.1000409, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "halternamsee", "name": "Haltern am See", "lat": 51.7382085, "lon": 7.1845887, "announcementUrl": "/sounds/halternamsee.mp3" },
+          { "id": "marlsinsen", "name": "Marl-Sinsen", "lat": 51.6683747, "lon": 7.1735299, "announcementUrl": "/sounds/marlsinsen.mp3" },
+          { "id": "rehbf", "name": "Recklinghausen Hbf", "lat": 51.616009, "lon": 7.2038876, "announcementUrl": "/sounds/rehbf.mp3" },
+          { "id": "wanneeickel", "name": "Wanne-Eickel Hbf", "lat": 51.5320128, "lon": 7.1658563, "announcementUrl": "/sounds/wanneeickelhbf.mp3" },
+          { "id": "gehbf", "name": "Gelsenkirchen Hbf", "lat": 51.5058493, "lon": 7.1000409, "announcementUrl": "/sounds/gehbf.mp3" },
           { "id": "ehbf", "name": "Essen Hbf", "lat": 51.45022, "lon": 7.010336, "announcementUrl": "/sounds/ehbf.mp3" },
-          { "id": "sythen", "name": "Sythen", "lat": 51.7721872, "lon": 7.2257172, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "dülmen", "name": "Dülmen", "lat": 51.8285857, "lon": 7.29399, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "buldern", "name": "Buldern", "lat": 51.8622918, "lon": 7.3724699, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "nottulnappelhülsen", "name": "Nottuln-Appelhülsen", "lat": 51.892923, "lon": 7.4275521, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "sendenbösensell", "name": "Senden-Bösensell", "lat": 51.9065119, "lon": 7.4879179, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "münsteralbachten", "name": "Münster-Albachten", "lat": 51.9146317, "lon": 7.5273294, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "münsterhbf", "name": "Münster Hbf", "lat": 51.9554471, "lon": 7.6325853, "announcementUrl": "/sounds/ruhleben.mp3" }
+          { "id": "sythen", "name": "Sythen", "lat": 51.7721872, "lon": 7.2257172, "announcementUrl": "/sounds/sythen.mp3" },
+          { "id": "dülmen", "name": "Dülmen", "lat": 51.8285857, "lon": 7.29399, "announcementUrl": "/sounds/duelmen.mp3" },
+          { "id": "buldern", "name": "Buldern", "lat": 51.8622918, "lon": 7.3724699, "announcementUrl": "/sounds/buldern.mp3" },
+          { "id": "nottulnappelhülsen", "name": "Nottuln-Appelhülsen", "lat": 51.892923, "lon": 7.4275521, "announcementUrl": "/sounds/nottulnappel.mp3" },
+          { "id": "sendenbösensell", "name": "Senden-Bösensell", "lat": 51.9065119, "lon": 7.4879179, "announcementUrl": "/sounds/sendenboes.mp3" },
+          { "id": "münsteralbachten", "name": "Münster-Albachten", "lat": 51.9146317, "lon": 7.5273294, "announcementUrl": "/sounds/muensteralbachten.mp3" },
+          { "id": "münsterhbf", "name": "Münster Hbf", "lat": 51.9554471, "lon": 7.6325853, "announcementUrl": "/sounds/muensterhbf.mp3" }
        ]
      },  
      {
@@ -276,10 +276,10 @@
          "name": "RE2/42",
          "destination": "Gelsenkirchen Hbf - Duisburg Hbf",
          "stops": [
-          { "id": "gehbf", "name": "Gelsenkirchen Hbf", "lat": 51.505644, "lon": 7.100352, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "gehbf", "name": "Gelsenkirchen Hbf", "lat": 51.505644, "lon": 7.100352, "announcementUrl": "/sounds/gehbf.mp3" },
           { "id": "ehbf", "name": "Essen Hbf", "lat": 51.45022, "lon": 7.010336, "announcementUrl": "/sounds/ehbf.mp3" },
-          { "id": "mülheimhbf", "name": "Mülheim Hbf", "lat": 51.431779, "lon": 6.887136, "announcementUrl": "/sounds/ruhleben.mp3" },
-          { "id": "dflughafen", "name": "D-Flughafen", "lat": 51.291169, "lon": 6.78807, "announcementUrl": "/sounds/ruhleben.mp3" },
+          { "id": "mülheimhbf", "name": "Mülheim Hbf", "lat": 51.431779, "lon": 6.887136, "announcementUrl": "/sounds/mülheimhbf.mp3" },
+          { "id": "dflughafen", "name": "D-Flughafen", "lat": 51.291169, "lon": 6.78807, "announcementUrl": "/sounds/dflughafen.mp3" },
           { "id": "dhbf", "name": "Düsseldorf Hbf", "lat": 51.221859, "lon": 6.794208, "announcementUrl": "/sounds/dhbf.mp3" }
        ]
      },
