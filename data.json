@@ -429,7 +429,9 @@
           { "id": "wobb", "departureTime": "02:59" } 
        ]
      }
-   ]
+    ]
+   }
+  ]
  },        
    {
          "name": "2",
@@ -470,7 +472,9 @@
           { "id": "wobb", "departureTime": "03:59" } 
        ]
      }
-   ]      
+    ]
+   }
+  ]   
   }, 
   {
          "name": "3",
@@ -506,7 +510,9 @@
           { "id": "haan", "departureTime": "03:59" }
        ]
      }
-   ]       
+    ]
+   }
+  ]      
   }, 
   {
          "name": "4",
@@ -547,7 +553,9 @@
           { "id": "khbf", "departureTime": "02:29" }
        ]
      }
-   ]        
+    ]
+   }
+  ]       
   },   
   {
          "name": "5",
@@ -587,8 +595,10 @@
           { "id": "kmülheim", "departureTime": "03:17" },
           { "id": "khbf", "departureTime": "03:29" }
        ]
-     }   
-   ]
+     }
+    ]
+   }
+  ]
   },          
   {
          "name": "6",
@@ -612,11 +622,11 @@
           { "id": "wbarmen", "departureTime": "01:49" }, 
           { "id": "wobb", "departureTime": "01:59" } 
        ]
-     }
+      }
+     ]
+    }
    ]
-  }            
- ]           
-},                  
+  }    
   ],
   "specialAnnouncements": [
     { "id": "sa-2", "text": "Endhaltestelle", "announcementUrl": "/sounds/endhaltestelle.mp3" },
