@@ -157,7 +157,7 @@
           { "id": "kmülheim", "name": "Köln-Mülheim", "lat": 50.957074, "lon": 7.011817, "announcementUrl": "/sounds/kmülheim.mp3" },
           { "id": "kbuchforst", "name": "K-Buchforst", "lat": 50.953512, "lon": 7.004334, "announcementUrl": "/sounds/kbuchforst.mp3" },
           { "id": "kmesse", "name": "K-Messe/Deutz", "lat": 50.939795, "lon": 6.976234, "announcementUrl": "/sounds/kmesse.mp3" },
-          { "id": "khbf", "name": "Köln Hbf", "lat": 50.943038, "lon": 6.960795, "announcementUrl": "/sounds/khbf.mp3" }
+          { "id": "khbf", "name": "Köln Hbf/Breslauer Platz", "lat": 50.943038, "lon": 6.960795, "announcementUrl": "/sounds/khbf.mp3" }
        ]
      },
      {
@@ -183,7 +183,7 @@
           { "id": "erkrath", "name": "Erkrath", "lat": 51.220685, "lon": 6.902059, "announcementUrl": "/sounds/erkrath.mp3" },
           { "id": "hochdahl", "name": "Hochdahl", "lat": 51.219384031910124, "lon": 6.943692518284109, "announcementUrl": "/sounds/hochdahl.mp3" },
           { "id": "hochdahlmilrath", "name": "Hochdahl-Milrath", "lat": 51.216809, "lon": 6.96684, "announcementUrl": "/sounds/hochdahlmilrath.mp3" },
-          { "id": "wsonnborn", "name": "Haan-Gruiten", "lat": 51.23723, "lon": 7.098517, "announcementUrl": "/sounds/haangruiten.mp3" },
+          { "id": "haangruiten", "name": "Haan-Gruiten", "lat": 51.23723, "lon": 7.098517, "announcementUrl": "/sounds/haangruiten.mp3" },
           { "id": "wvohwinkel", "name": "W-Vohwinkel", "lat": 51.233996, "lon": 7.070404, "announcementUrl": "/sounds/wvohwinkel.mp3" },
           { "id": "wsonnborn", "name": "W-Sonnborn", "lat": 51.23723, "lon": 7.098517, "announcementUrl": "/sounds/wsonnborn.mp3" },
           { "id": "wzoo", "name": "W-Zoologischer Garten", "lat": 51.243067, "lon": 7.107361, "announcementUrl": "/sounds/wzoo.mp3" },
@@ -329,7 +329,7 @@
          "name": "RE9X",
          "destination": "Köln Hbf - Aachen Hbf",
          "stops": [
-          { "id": "khbf", "name": "Köln Hbf", "lat": 50.943038, "lon": 6.960795, "announcementUrl": "/sounds/khbf.mp3" },
+          { "id": "khbf", "name": "Köln Hbf/Breslauer Platz", "lat": 50.943038, "lon": 6.960795, "announcementUrl": "/sounds/khbf.mp3" },
           { "id": "düren", "name": "Düren", "lat": 50.809008, "lon": 6.480358, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "aarotheerde", "name": "Aachen-Rothe Erde", "lat": 50.770189, "lon": 6.117599, "announcementUrl": "/sounds/ruhleben.mp3" },
           { "id": "aahbf", "name": "Aachen Hbf", "lat": 50.768635, "lon": 6.089934, "announcementUrl": "/sounds/ruhleben.mp3" }
@@ -370,6 +370,265 @@
   }      
  ]           
 },
+{
+         "id": "rb48wobbkhbf",
+         "name": "RB48",
+         "destination": "Wuppertal Oberbarmen - Köln Hbf/Breslauer Platz",
+         "stops": [
+          { "id": "wobb", "name": "Wuppertal-Oberbarmen", "lat": 51.275283819845214, "lon": 7.2220850820158375, "announcementUrl": "/sounds/woberbarmen.mp3" },
+          { "id": "wbarmen", "name": "W-Barmen", "lat": 51.26781214466064, "lon": 7.195269197258028, "announcementUrl": "/sounds/wbarmen.mp3" },
+          { "id": "whbf", "name": "Wuppertal Hbf", "lat": 51.25265388430978, "lon": 7.143519455386894, "announcementUrl": "/sounds/whbf.mp3" },
+          { "id": "wvohwinkel", "name": "W-Vohwinkel", "lat": 51.233996, "lon": 7.070404, "announcementUrl": "/sounds/wvohwinkel.mp3" },
+          { "id": "haangruiten", "name": "Haan-Gruiten", "lat": 51.23723, "lon": 7.098517, "announcementUrl": "/sounds/haangruiten.mp3" },
+          { "id": "haan", "name": "Haan", "lat": 51.188818, "lon": 6.997045, "announcementUrl": "/sounds/ACHTUNG.mp3" },
+          { "id": "sghbf", "name": "Solingen Hbf", "lat": 51.159465, "lon": 7.003647, "announcementUrl": "/sounds/ACHTUNG.mp3" },
+          { "id": "leichlingen", "name": "Leichlingen", "lat": 51.107325, "lon": 7.00579, "announcementUrl": "/sounds/haangruiten.mp3" },
+          { "id": "opladen", "name": "Opladen", "lat": 51.066059, "lon": 7.007452, "announcementUrl": "/sounds/haangruiten.mp3" },
+          { "id": "levmanfort", "name": "Leverkusen-Manfort", "lat": 51.031407, "lon": 7.015729, "announcementUrl": "/sounds/haangruiten.mp3" },
+          { "id": "kmülheim", "name": "Köln-Mülheim", "lat": 50.957074, "lon": 7.011817, "announcementUrl": "/sounds/kmülheim.mp3" }, 
+          { "id": "kmesse", "name": "K-Messe/Deutz", "lat": 50.939795, "lon": 6.976234, "announcementUrl": "/sounds/kmesse.mp3" },
+          { "id": "khbf", "name": "Köln Hbf/Breslauer Platz", "lat": 50.943038, "lon": 6.960795, "announcementUrl": "/sounds/khbf.mp3" } 
+       ],
+         "courses": [ 
+          {
+         "name": "1",
+         "tripGroups": [
+          {
+         "id": "do-sa",
+         "name": "Do-Sa",   
+         "trips": [
+          {
+         "stops": [
+          { "id": "wobb", "departureTime": "21:00" },
+          { "id": "wbarmen", "departureTime": "21:10" },
+          { "id": "whbf", "departureTime": "21:22" },
+          { "id": "wvohwinkel", "departureTime": "21:40" },
+          { "id": "haangruiten", "departureTime": "21:50" },
+          { "id": "haan", "departureTime": "22:00" },
+          { "id": "sghbf", "departureTime": "22:12" },
+          { "id": "leichlingen", "departureTime": "22:28" },
+          { "id": "opladen", "departureTime": "22:45" },
+          { "id": "levmanfort", "departureTime": "23:00" },
+          { "id": "kmülheim", "departureTime": "23:17" },
+          { "id": "khbf", "departureTime": "23:29" }
+       ]
+     },
+     {
+         "stops": [
+          { "id": "khbf", "departureTime": "00:30" },
+          { "id": "kmülheim", "departureTime": "00:42" },
+          { "id": "levmanfort", "departureTime": "00:59" },
+          { "id": "opladen", "departureTime": "01:14" },
+          { "id": "leichlingen", "departureTime": "01:31" },
+          { "id": "sghbf", "departureTime": "01:47" }, 
+          { "id": "haan", "departureTime": "01:59" }, 
+          { "id": "haangruiten", "departureTime": "02:09" },
+          { "id": "wvohwinkel", "departureTime": "02:19" }, 
+          { "id": "whbf", "departureTime": "02:37" },
+          { "id": "wbarmen", "departureTime": "02:49" }, 
+          { "id": "wobb", "departureTime": "02:59" } 
+       ]
+     }
+   ]
+   },  
+   {
+         "name": "2",
+         "tripGroups": [
+          {
+         "id": "do-sa",
+         "name": "Do-Sa",   
+         "trips": [
+          {
+         "stops": [
+          { "id": "wobb", "departureTime": "22:00" },
+          { "id": "wbarmen", "departureTime": "22:10" },
+          { "id": "whbf", "departureTime": "22:22" },
+          { "id": "wvohwinkel", "departureTime": "22:40" },
+          { "id": "haangruiten", "departureTime": "22:50" },
+          { "id": "haan", "departureTime": "23:00" },
+          { "id": "sghbf", "departureTime": "23:12" },
+          { "id": "leichlingen", "departureTime": "23:28" },
+          { "id": "opladen", "departureTime": "23:45" },
+          { "id": "levmanfort", "departureTime": "00:00" },
+          { "id": "kmülheim", "departureTime": "00:17" },
+          { "id": "khbf", "departureTime": "00:29" }
+       ]
+     },
+     {
+         "stops": [
+          { "id": "khbf", "departureTime": "01:30" },
+          { "id": "kmülheim", "departureTime": "01:42" },
+          { "id": "levmanfort", "departureTime": "01:59" },
+          { "id": "opladen", "departureTime": "02:14" },
+          { "id": "leichlingen", "departureTime": "02:31" },
+          { "id": "sghbf", "departureTime": "02:47" }, 
+          { "id": "haan", "departureTime": "02:59" }, 
+          { "id": "haangruiten", "departureTime": "03:09" },
+          { "id": "wvohwinkel", "departureTime": "03:19" }, 
+          { "id": "whbf", "departureTime": "03:37" },
+          { "id": "wbarmen", "departureTime": "03:49" }, 
+          { "id": "wobb", "departureTime": "03:59" } 
+       ]
+     }
+   ]
+  }, 
+  {
+         "name": "3",
+         "tripGroups": [
+          {
+         "id": "do-sa",
+         "name": "Do-Sa",   
+         "trips": [
+          {
+         "stops": [
+          { "id": "wobb", "departureTime": "23:00" },
+          { "id": "wbarmen", "departureTime": "23:10" },
+          { "id": "whbf", "departureTime": "23:22" },
+          { "id": "wvohwinkel", "departureTime": "23:40" },
+          { "id": "haangruiten", "departureTime": "23:50" },
+          { "id": "haan", "departureTime": "00:00" },
+          { "id": "sghbf", "departureTime": "00:12" },
+          { "id": "leichlingen", "departureTime": "00:28" },
+          { "id": "opladen", "departureTime": "00:45" },
+          { "id": "levmanfort", "departureTime": "01:00" },
+          { "id": "kmülheim", "departureTime": "01:17" },
+          { "id": "khbf", "departureTime": "01:29" }
+       ]
+     },
+     {
+         "stops": [
+          { "id": "khbf", "departureTime": "02:30" },
+          { "id": "kmülheim", "departureTime": "02:42" },
+          { "id": "levmanfort", "departureTime": "02:59" },
+          { "id": "opladen", "departureTime": "03:14" },
+          { "id": "leichlingen", "departureTime": "03:31" },
+          { "id": "sghbf", "departureTime": "03:47" }, 
+          { "id": "haan", "departureTime": "03:59" }
+       ]
+     }
+   ]
+  }, 
+  {
+         "name": "4",
+         "tripGroups": [
+          {
+         "id": "do-sa",
+         "name": "Do-Sa",   
+         "trips": [
+          {
+         "stops": [
+          { "id": "khbf", "departureTime": "21:30" },
+          { "id": "kmülheim", "departureTime": "21:42" },
+          { "id": "levmanfort", "departureTime": "21:59" },
+          { "id": "opladen", "departureTime": "22:14" },
+          { "id": "leichlingen", "departureTime": "22:31" },
+          { "id": "sghbf", "departureTime": "22:47" }, 
+          { "id": "haan", "departureTime": "22:59" }, 
+          { "id": "haangruiten", "departureTime": "23:09" },
+          { "id": "wvohwinkel", "departureTime": "23:19" }, 
+          { "id": "whbf", "departureTime": "23:37" },
+          { "id": "wbarmen", "departureTime": "23:49" }, 
+          { "id": "wobb", "departureTime": "23:59" } 
+       ]
+     },
+     {
+         "stops": [
+          { "id": "wobb", "departureTime": "00:00" },
+          { "id": "wbarmen", "departureTime": "00:10" },
+          { "id": "whbf", "departureTime": "00:22" },
+          { "id": "wvohwinkel", "departureTime": "00:40" },
+          { "id": "haangruiten", "departureTime": "00:50" },
+          { "id": "haan", "departureTime": "01:00" },
+          { "id": "sghbf", "departureTime": "01:12" },
+          { "id": "leichlingen", "departureTime": "01:28" },
+          { "id": "opladen", "departureTime": "01:45" },
+          { "id": "levmanfort", "departureTime": "02:00" },
+          { "id": "kmülheim", "departureTime": "02:17" },
+          { "id": "khbf", "departureTime": "02:29" }
+       ]
+     }
+   ]
+  },   
+  {
+         "name": "5",
+         "tripGroups": [
+          {
+         "id": "do-sa",
+         "name": "Do-Sa",   
+         "trips": [
+          {
+         "stops": [
+          { "id": "khbf", "departureTime": "22:30" },
+          { "id": "kmülheim", "departureTime": "22:42" },
+          { "id": "levmanfort", "departureTime": "22:59" },
+          { "id": "opladen", "departureTime": "23:14" },
+          { "id": "leichlingen", "departureTime": "23:31" },
+          { "id": "sghbf", "departureTime": "23:47" }, 
+          { "id": "haan", "departureTime": "23:59" }, 
+          { "id": "haangruiten", "departureTime": "00:09" },
+          { "id": "wvohwinkel", "departureTime": "00:19" }, 
+          { "id": "whbf", "departureTime": "00:37" },
+          { "id": "wbarmen", "departureTime": "00:49" }, 
+          { "id": "wobb", "departureTime": "00:59" } 
+       ]
+     },
+     {
+         "stops": [
+          { "id": "wobb", "departureTime": "01:00" },
+          { "id": "wbarmen", "departureTime": "01:10" },
+          { "id": "whbf", "departureTime": "01:22" },
+          { "id": "wvohwinkel", "departureTime": "01:40" },
+          { "id": "haangruiten", "departureTime": "01:50" },
+          { "id": "haan", "departureTime": "02:00" },
+          { "id": "sghbf", "departureTime": "02:12" },
+          { "id": "leichlingen", "departureTime": "02:28" },
+          { "id": "opladen", "departureTime": "02:45" },
+          { "id": "levmanfort", "departureTime": "03:00" },
+          { "id": "kmülheim", "departureTime": "03:17" },
+          { "id": "khbf", "departureTime": "03:29" }
+       ]
+     }
+   ]
+  }, 
+  {
+         "name": "6",
+         "tripGroups": [
+          {
+         "id": "do-sa",
+         "name": "Do-Sa",   
+         "trips": [
+          {
+         "stops": [
+          { "id": "khbf", "departureTime": "23:30" },
+          { "id": "kmülheim", "departureTime": "23:42" },
+          { "id": "levmanfort", "departureTime": "23:59" },
+          { "id": "opladen", "departureTime": "00:14" },
+          { "id": "leichlingen", "departureTime": "00:31" },
+          { "id": "sghbf", "departureTime": "00:47" }, 
+          { "id": "haan", "departureTime": "00:59" }, 
+          { "id": "haangruiten", "departureTime": "01:09" },
+          { "id": "wvohwinkel", "departureTime": "01:19" }, 
+          { "id": "whbf", "departureTime": "01:37" },
+          { "id": "wbarmen", "departureTime": "01:49" }, 
+          { "id": "wobb", "departureTime": "01:59" } 
+       ]
+     }
+   ]
+  }            
+ ]           
+} 
+] 
+} 
+]
+}
+] 
+} 
+]
+}
+] 
+} 
+]
+}                  
   ],
   "specialAnnouncements": [
     { "id": "sa-2", "text": "Endhaltestelle", "announcementUrl": "/sounds/endhaltestelle.mp3" },
