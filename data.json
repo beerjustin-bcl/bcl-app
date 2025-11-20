@@ -622,7 +622,7 @@
    ]
   }            
  ]           
-}                  
+},                  
   ],
   "specialAnnouncements": [
     { "id": "sa-2", "text": "Endhaltestelle", "announcementUrl": "/sounds/endhaltestelle.mp3" },
