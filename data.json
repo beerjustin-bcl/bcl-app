@@ -588,10 +588,11 @@
           { "id": "khbf", "departureTime": "03:29" }
        ]
      }
-     }
-     }      
+     }    
    ]
-  }, 
+  } 
+  ]
+  },          
   {
          "name": "6",
          "tripGroups": [
