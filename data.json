@@ -430,8 +430,6 @@
        ]
      }
    ]
-   } 
-  ]
  },        
    {
          "name": "2",
@@ -472,9 +470,7 @@
           { "id": "wobb", "departureTime": "03:59" } 
        ]
      }
-   ]
-  } 
-  ]         
+   ]      
   }, 
   {
          "name": "3",
@@ -510,9 +506,7 @@
           { "id": "haan", "departureTime": "03:59" }
        ]
      }
-   ]
-  } 
-  ]         
+   ]       
   }, 
   {
          "name": "4",
@@ -622,7 +616,7 @@
    ]
   }            
  ]           
-},                  
+}                  
   ],
   "specialAnnouncements": [
     { "id": "sa-2", "text": "Endhaltestelle", "announcementUrl": "/sounds/endhaltestelle.mp3" },
