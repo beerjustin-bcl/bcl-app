@@ -553,9 +553,7 @@
           { "id": "khbf", "departureTime": "02:29" }
        ]
      }
-   ]
-   } 
-  ]         
+   ]        
   },   
   {
          "name": "5",
@@ -595,11 +593,8 @@
           { "id": "kmülheim", "departureTime": "03:17" },
           { "id": "khbf", "departureTime": "03:29" }
        ]
-     }
-    }    
+     }   
    ]
-   } 
-  ] 
   },          
   {
          "name": "6",
