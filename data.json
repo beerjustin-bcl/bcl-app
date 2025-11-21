@@ -432,6 +432,200 @@
             ]
           }
         ]
+      },
+      {
+        "name": "2",
+        "tripGroups": [
+          {
+            "id": "do-sa",
+            "name": "Do-Sa",
+            "trips": [
+              {
+                "stops": [
+                  { "id": "wobb", "departureTime": "22:00" },
+                  { "id": "wbarmen", "departureTime": "22:10" },
+                  { "id": "whbf", "departureTime": "22:22" },
+                  { "id": "wvohwinkel", "departureTime": "22:40" },
+                  { "id": "haangruiten", "departureTime": "22:50" },
+                  { "id": "haan", "departureTime": "23:00" },
+                  { "id": "sghbf", "departureTime": "23:12" },
+                  { "id": "leichlingen", "departureTime": "23:28" },
+                  { "id": "opladen", "departureTime": "23:45" },
+                  { "id": "levmanfort", "departureTime": "00:00" },
+                  { "id": "kmülheim", "departureTime": "00:17" },
+                  { "id": "khbf", "departureTime": "00:29" }
+                ]
+              },
+              {
+                "stops": [
+                  { "id": "khbf", "departureTime": "01:30" },
+                  { "id": "kmülheim", "departureTime": "01:42" },
+                  { "id": "levmanfort", "departureTime": "01:59" },
+                  { "id": "opladen", "departureTime": "02:14" },
+                  { "id": "leichlingen", "departureTime": "02:31" },
+                  { "id": "sghbf", "departureTime": "02:47" },
+                  { "id": "haan", "departureTime": "02:59" },
+                  { "id": "haangruiten", "departureTime": "03:09" },
+                  { "id": "wvohwinkel", "departureTime": "03:19" },
+                  { "id": "whbf", "departureTime": "03:37" },
+                  { "id": "wbarmen", "departureTime": "03:49" },
+                  { "id": "wobb", "departureTime": "03:59" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "3",
+        "tripGroups": [
+          {
+            "id": "do-sa",
+            "name": "Do-Sa",
+            "trips": [
+              {
+                "stops": [
+                  { "id": "wobb", "departureTime": "23:00" },
+                  { "id": "wbarmen", "departureTime": "23:10" },
+                  { "id": "whbf", "departureTime": "23:22" },
+                  { "id": "wvohwinkel", "departureTime": "23:40" },
+                  { "id": "haangruiten", "departureTime": "23:50" },
+                  { "id": "haan", "departureTime": "00:00" },
+                  { "id": "sghbf", "departureTime": "00:12" },
+                  { "id": "leichlingen", "departureTime": "00:28" },
+                  { "id": "opladen", "departureTime": "00:45" },
+                  { "id": "levmanfort", "departureTime": "01:00" },
+                  { "id": "kmülheim", "departureTime": "01:17" },
+                  { "id": "khbf", "departureTime": "01:29" }
+                ]
+              },
+              {
+                "stops": [
+                  { "id": "khbf", "departureTime": "01:30" },
+                  { "id": "kmülheim", "departureTime": "01:42" },
+                  { "id": "levmanfort", "departureTime": "01:59" },
+                  { "id": "opladen", "departureTime": "02:14" },
+                  { "id": "leichlingen", "departureTime": "02:31" },
+                  { "id": "sghbf", "departureTime": "02:47" },
+                  { "id": "haan", "departureTime": "02:59" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "4",
+        "tripGroups": [
+          {
+            "id": "do-sa",
+            "name": "Do-Sa",
+            "trips": [
+              {
+                "stops": [
+                  { "id": "khbf", "departureTime": "21:30" },
+                  { "id": "kmülheim", "departureTime": "21:42" },
+                  { "id": "levmanfort", "departureTime": "21:59" },
+                  { "id": "opladen", "departureTime": "22:14" },
+                  { "id": "leichlingen", "departureTime": "22:31" },
+                  { "id": "sghbf", "departureTime": "22:47" },
+                  { "id": "haan", "departureTime": "22:59" },
+                  { "id": "haangruiten", "departureTime": "23:09" },
+                  { "id": "wvohwinkel", "departureTime": "23:19" },
+                  { "id": "whbf", "departureTime": "23:37" },
+                  { "id": "wbarmen", "departureTime": "23:49" },
+                  { "id": "wobb", "departureTime": "23:59" }
+                ]
+              },
+              {
+                "stops": [
+                  { "id": "wobb", "departureTime": "00:00" },
+                  { "id": "wbarmen", "departureTime": "00:10" },
+                  { "id": "whbf", "departureTime": "00:22" },
+                  { "id": "wvohwinkel", "departureTime": "00:40" },
+                  { "id": "haangruiten", "departureTime": "00:50" },
+                  { "id": "haan", "departureTime": "01:00" },
+                  { "id": "sghbf", "departureTime": "01:12" },
+                  { "id": "leichlingen", "departureTime": "01:28" },
+                  { "id": "opladen", "departureTime": "01:45" },
+                  { "id": "levmanfort", "departureTime": "02:00" },
+                  { "id": "kmülheim", "departureTime": "02:17" },
+                  { "id": "khbf", "departureTime": "02:29" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "5",
+        "tripGroups": [
+          {
+            "id": "do-sa",
+            "name": "Do-Sa",
+            "trips": [
+              {
+                "stops": [
+                  { "id": "khbf", "departureTime": "22:30" },
+                  { "id": "kmülheim", "departureTime": "22:42" },
+                  { "id": "levmanfort", "departureTime": "22:59" },
+                  { "id": "opladen", "departureTime": "23:14" },
+                  { "id": "leichlingen", "departureTime": "23:31" },
+                  { "id": "sghbf", "departureTime": "23:47" },
+                  { "id": "haan", "departureTime": "23:59" },
+                  { "id": "haangruiten", "departureTime": "00:09" },
+                  { "id": "wvohwinkel", "departureTime": "00:19" },
+                  { "id": "whbf", "departureTime": "00:37" },
+                  { "id": "wbarmen", "departureTime": "00:49" },
+                  { "id": "wobb", "departureTime": "00:59" }
+                ]
+              },
+              {
+                "stops": [
+                  { "id": "wobb", "departureTime": "01:00" },
+                  { "id": "wbarmen", "departureTime": "01:10" },
+                  { "id": "whbf", "departureTime": "01:22" },
+                  { "id": "wvohwinkel", "departureTime": "01:40" },
+                  { "id": "haangruiten", "departureTime": "01:50" },
+                  { "id": "haan", "departureTime": "02:00" },
+                  { "id": "sghbf", "departureTime": "02:12" },
+                  { "id": "leichlingen", "departureTime": "02:28" },
+                  { "id": "opladen", "departureTime": "02:45" },
+                  { "id": "levmanfort", "departureTime": "03:00" },
+                  { "id": "kmülheim", "departureTime": "03:17" },
+                  { "id": "khbf", "departureTime": "03:29" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "6",
+        "tripGroups": [
+          {
+            "id": "do-sa",
+            "name": "Do-Sa",
+            "trips": [
+              {
+                "stops": [
+                  { "id": "khbf", "departureTime": "23:30" },
+                  { "id": "kmülheim", "departureTime": "23:42" },
+                  { "id": "levmanfort", "departureTime": "23:59" },
+                  { "id": "opladen", "departureTime": "00:14" },
+                  { "id": "leichlingen", "departureTime": "00:31" },
+                  { "id": "sghbf", "departureTime": "00:47" },
+                  { "id": "haan", "departureTime": "00:59" },
+                  { "id": "haangruiten", "departureTime": "01:09" },
+                  { "id": "wvohwinkel", "departureTime": "01:19" },
+                  { "id": "whbf", "departureTime": "01:37" },
+                  { "id": "wbarmen", "departureTime": "01:49" },
+                  { "id": "wobb", "departureTime": "01:59" }
+                ]
+              }
+            ]
+          }
+        ]
       }
      ]
     }
