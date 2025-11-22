@@ -386,8 +386,7 @@
       { "id": "opladen", "name": "Opladen", "lat": 51.066059, "lon": 7.007452, "announcementUrl": "/sounds/opladen.mp3" },
       { "id": "levmanfort", "name": "Leverkusen-Manfort", "lat": 51.031407, "lon": 7.015729, "announcementUrl": "/sounds/levmanfort.mp3" },
       { "id": "kmülheim", "name": "Köln-Mülheim", "lat": 50.957074, "lon": 7.011817, "announcementUrl": "/sounds/kmülheim.mp3" },
-      { "id": "kmesse", "name": "K-Messe/Deutz", "lat": 50.939795, "lon": 6.976234, "announcementUrl": "/sounds/kmesse.mp3" },
-      { "id": "khbf", "name": "Köln Hbf/Breslauer Platz", "lat": 50.943038, "lon": 6.960795, "announcementUrl": "/sounds/khbf.mp3" }
+      { "id": "kmesse", "name": "K-Messe/Deutz", "lat": 50.939795, "lon": 6.976234, "announcementUrl": "/sounds/kmesse.mp3" }
     ],
     "courses": [
       {
@@ -410,12 +409,12 @@
                   { "id": "opladen", "departureTime": "22:45" },
                   { "id": "levmanfort", "departureTime": "23:00" },
                   { "id": "kmülheim", "departureTime": "23:17" },
-                  { "id": "khbf", "departureTime": "23:29" }
+                  { "id": "kmesse", "departureTime": "23:29" }
                 ]
               },
               {
                 "stops": [
-                  { "id": "khbf", "departureTime": "00:30" },
+                  { "id": "kmesse", "departureTime": "00:30" },
                   { "id": "kmülheim", "departureTime": "00:42" },
                   { "id": "levmanfort", "departureTime": "00:59" },
                   { "id": "opladen", "departureTime": "01:14" },
@@ -453,12 +452,12 @@
                   { "id": "opladen", "departureTime": "23:45" },
                   { "id": "levmanfort", "departureTime": "00:00" },
                   { "id": "kmülheim", "departureTime": "00:17" },
-                  { "id": "khbf", "departureTime": "00:29" }
+                  { "id": "kmesse", "departureTime": "00:29" }
                 ]
               },
               {
                 "stops": [
-                  { "id": "khbf", "departureTime": "01:30" },
+                  { "id": "kmesse", "departureTime": "01:30" },
                   { "id": "kmülheim", "departureTime": "01:42" },
                   { "id": "levmanfort", "departureTime": "01:59" },
                   { "id": "opladen", "departureTime": "02:14" },
@@ -496,18 +495,17 @@
                   { "id": "opladen", "departureTime": "00:45" },
                   { "id": "levmanfort", "departureTime": "01:00" },
                   { "id": "kmülheim", "departureTime": "01:17" },
-                  { "id": "khbf", "departureTime": "01:29" }
+                  { "id": "kmesse", "departureTime": "01:29" }
                 ]
               },
               {
                 "stops": [
-                  { "id": "khbf", "departureTime": "01:30" },
+                  { "id": "kmesse", "departureTime": "01:30" },
                   { "id": "kmülheim", "departureTime": "01:42" },
                   { "id": "levmanfort", "departureTime": "01:59" },
                   { "id": "opladen", "departureTime": "02:14" },
                   { "id": "leichlingen", "departureTime": "02:31" },
-                  { "id": "sghbf", "departureTime": "02:47" },
-                  { "id": "haan", "departureTime": "02:59" }
+                  { "id": "sghbf", "departureTime": "02:47" }
                 ]
               }
             ]
@@ -523,7 +521,7 @@
             "trips": [
               {
                 "stops": [
-                  { "id": "khbf", "departureTime": "21:30" },
+                  { "id": "kmesse", "departureTime": "21:30" },
                   { "id": "kmülheim", "departureTime": "21:42" },
                   { "id": "levmanfort", "departureTime": "21:59" },
                   { "id": "opladen", "departureTime": "22:14" },
@@ -550,7 +548,7 @@
                   { "id": "opladen", "departureTime": "01:45" },
                   { "id": "levmanfort", "departureTime": "02:00" },
                   { "id": "kmülheim", "departureTime": "02:17" },
-                  { "id": "khbf", "departureTime": "02:29" }
+                  { "id": "kmesse", "departureTime": "02:29" }
                 ]
               }
             ]
@@ -566,7 +564,7 @@
             "trips": [
               {
                 "stops": [
-                  { "id": "khbf", "departureTime": "22:30" },
+                  { "id": "kmesse", "departureTime": "22:30" },
                   { "id": "kmülheim", "departureTime": "22:42" },
                   { "id": "levmanfort", "departureTime": "22:59" },
                   { "id": "opladen", "departureTime": "23:14" },
@@ -593,7 +591,7 @@
                   { "id": "opladen", "departureTime": "02:45" },
                   { "id": "levmanfort", "departureTime": "03:00" },
                   { "id": "kmülheim", "departureTime": "03:17" },
-                  { "id": "khbf", "departureTime": "03:29" }
+                  { "id": "kmesse", "departureTime": "03:29" }
                 ]
               }
             ]
@@ -609,7 +607,7 @@
             "trips": [
               {
                 "stops": [
-                  { "id": "khbf", "departureTime": "23:30" },
+                  { "id": "kmesse", "departureTime": "23:30" },
                   { "id": "kmülheim", "departureTime": "23:42" },
                   { "id": "levmanfort", "departureTime": "23:59" },
                   { "id": "opladen", "departureTime": "00:14" },
