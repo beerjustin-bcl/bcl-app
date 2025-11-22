@@ -373,7 +373,7 @@
   {
     "id": "rb48wobbkhbf",
     "name": "RB48",
-    "destination": "Wuppertal Oberbarmen - Köln Hbf/Breslauer Platz",
+    "destination": "Wuppertal Oberbarmen - Köln Messe/Deutz",
     "stops": [
       { "id": "wobb", "name": "Wuppertal-Oberbarmen", "lat": 51.275283819845214, "lon": 7.2220850820158375, "announcementUrl": "/sounds/woberbarmen.mp3" },
       { "id": "wbarmen", "name": "W-Barmen", "lat": 51.26781214466064, "lon": 7.195269197258028, "announcementUrl": "/sounds/wbarmen.mp3" },
