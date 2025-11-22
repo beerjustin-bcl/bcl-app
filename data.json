@@ -386,7 +386,7 @@
       { "id": "opladen", "name": "Opladen", "lat": 51.066059, "lon": 7.007452, "announcementUrl": "/sounds/opladen.mp3" },
       { "id": "levmanfort", "name": "Leverkusen-Manfort", "lat": 51.031407, "lon": 7.015729, "announcementUrl": "/sounds/levmanfort.mp3" },
       { "id": "kmülheim", "name": "Köln-Mülheim", "lat": 50.957074, "lon": 7.011817, "announcementUrl": "/sounds/kmülheim.mp3" },
-      { "id": "kmesse", "name": "K-Messe/Deutz", "lat": 50.939795, "lon": 6.976234, "announcementUrl": "/sounds/kmesse.mp3" }
+      { "id": "kmesse", "name": "Köln-Messe/Deutz", "lat": 50.939795, "lon": 6.976234, "announcementUrl": "/sounds/kmesse.mp3" }
     ],
     "courses": [
       {
