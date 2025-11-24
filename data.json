@@ -1539,7 +1539,8 @@
                       "id": "ehbf",
                       "departureTime": "22:00"
                     }
-                  ]
+                  ],
+                  "gpxUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/refs/heads/main/gpx/Dorsten%20ZOB-Essen%20Hbf.gpx"
                 },
                 {
                   "stops": [
