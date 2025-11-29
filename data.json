@@ -1510,57 +1510,44 @@
           "lat": 51.65817,
           "lon": 6.968851,
           "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/dorstenzob.mp3"
+        },
+        {
+          "id": "stop-1764437362861",
+          "name": "Neue Haltestelle",
+          "lat": 52.52,
+          "lon": 13.4,
+          "announcementUrl": ""
         }
       ],
       "courses": [
         {
-          "name": "1",
+          "name": "2",
           "gpxUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/refs/heads/main/gpx/ELTENSPERRUNG_RE%2019%20Oberhausen%20Hauptbahnhof-Arnheim%20Centraal.gpx",
           "tripGroups": [
             {
               "id": "default",
-              "name": "Fahrten",
+              "name": "30.11.25",
               "trips": [
                 {
                   "stops": [
                     {
                       "id": "dorszob",
-                      "departureTime": "21:03"
+                      "departureTime": ""
                     },
                     {
                       "id": "glawest",
-                      "departureTime": "21:22"
+                      "departureTime": ""
                     },
                     {
                       "id": "bothbf",
-                      "departureTime": "21:40"
+                      "departureTime": ""
                     },
                     {
                       "id": "ehbf",
-                      "departureTime": "22:00"
+                      "departureTime": ""
                     }
                   ],
-                  "gpxUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/refs/heads/main/gpx/Dorsten%20ZOB-Essen%20Hbf.gpx"
-                },
-                {
-                  "stops": [
-                    {
-                      "id": "ehbf",
-                      "departureTime": "22:52"
-                    },
-                    {
-                      "id": "bothbf",
-                      "departureTime": "23:17"
-                    },
-                    {
-                      "id": "glawest",
-                      "departureTime": "23:40"
-                    },
-                    {
-                      "id": "dorszob",
-                      "departureTime": "00:00"
-                    }
-                  ]
+                  "gpxUrl": ""
                 }
               ]
             }
@@ -2378,6 +2365,174 @@
               "id": "tg-1763907096246",
               "name": "Standard",
               "trips": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "line-1764437413609",
+      "name": "RE14L",
+      "destination": "Essen Hbf - Dorsten ZOB",
+      "stops": [
+        {
+          "id": "stop-1764437432692",
+          "name": "Dorsten ZOB",
+          "lat": 51.65817,
+          "lon": 6.968851,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/dorstenzob.mp3"
+        },
+        {
+          "id": "stop-1764437439677",
+          "name": "Feldhausen",
+          "lat": 51.615157,
+          "lon": 6.970223,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/feldhausen.mp3"
+        },
+        {
+          "id": "stop-1764437452810",
+          "name": "Gladbeck-Zweckel",
+          "lat": 51.588919,
+          "lon": 6.9853,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/glazweckel.mp3"
+        },
+        {
+          "id": "stop-1764437461058",
+          "name": "Gladbeck-West",
+          "lat": 51.575134,
+          "lon": 6.977295,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/glawest.mp3"
+        },
+        {
+          "id": "stop-1764437476513",
+          "name": "Bottrop Hbf",
+          "lat": 51.509962,
+          "lon": 6.936388,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/bottrophbf.mp3"
+        },
+        {
+          "id": "stop-1764437487693",
+          "name": "Essen-Borbeck",
+          "lat": 51.472334,
+          "lon": 6.94882,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/eborbeck.mp3"
+        },
+        {
+          "id": "stop-1764437503158",
+          "name": "Essen Hbf",
+          "lat": 51.450164,
+          "lon": 7.010061,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/ehbf.mp3"
+        }
+      ],
+      "courses": [
+        {
+          "name": "1",
+          "tripGroups": [
+            {
+              "id": "tg-default",
+              "name": "30.11.25",
+              "trips": [
+                {
+                  "stops": [
+                    {
+                      "id": "stop-1764437503158",
+                      "departureTime": "04:43"
+                    },
+                    {
+                      "id": "stop-1764437487693",
+                      "departureTime": "04:58"
+                    },
+                    {
+                      "id": "stop-1764437476513",
+                      "departureTime": "05:14"
+                    },
+                    {
+                      "id": "stop-1764437461058",
+                      "departureTime": "05:34"
+                    },
+                    {
+                      "id": "stop-1764437452810",
+                      "departureTime": "05:41"
+                    },
+                    {
+                      "id": "stop-1764437439677",
+                      "departureTime": "05:51"
+                    },
+                    {
+                      "id": "stop-1764437432692",
+                      "departureTime": "06:01"
+                    }
+                  ],
+                  "gpxUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/refs/heads/main/gpx/RE14%20Essen%20Hbf.-Dorsten%20ZOB©FerhanK.gpx"
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "stop-1764437432692",
+                      "departureTime": "07:01"
+                    },
+                    {
+                      "id": "stop-1764437439677",
+                      "departureTime": "07:11"
+                    },
+                    {
+                      "id": "stop-1764437452810",
+                      "departureTime": "07:19"
+                    },
+                    {
+                      "id": "stop-1764437461058",
+                      "departureTime": "07:25"
+                    },
+                    {
+                      "id": "stop-1764437476513",
+                      "departureTime": "07:43"
+                    },
+                    {
+                      "id": "stop-1764437487693",
+                      "departureTime": "07:57"
+                    },
+                    {
+                      "id": "stop-1764437503158",
+                      "departureTime": "08:12"
+                    }
+                  ],
+                  "gpxUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/refs/heads/main/gpx/RE14%20Dorsten%20ZOB-Essen%20Hbf.©FerhanK.gpx"
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "stop-1764437503158",
+                      "departureTime": "08:38"
+                    },
+                    {
+                      "id": "stop-1764437487693",
+                      "departureTime": "08:53"
+                    },
+                    {
+                      "id": "stop-1764437476513",
+                      "departureTime": "09:09"
+                    },
+                    {
+                      "id": "stop-1764437461058",
+                      "departureTime": "09:29"
+                    },
+                    {
+                      "id": "stop-1764437452810",
+                      "departureTime": "09:36"
+                    },
+                    {
+                      "id": "stop-1764437439677",
+                      "departureTime": "09:46"
+                    },
+                    {
+                      "id": "stop-1764437432692",
+                      "departureTime": "09:56"
+                    }
+                  ],
+                  "gpxUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/refs/heads/main/gpx/RE14%20Essen%20Hbf.-Dorsten%20ZOB©FerhanK.gpx"
+                }
+              ]
             }
           ]
         }
