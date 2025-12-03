@@ -3007,7 +3007,7 @@
     {
       "id": "line-1764767085362",
       "name": "S1",
-      "destination": "Solingen Hbf - Düsseldorf Hbf",
+      "destination": "Solingen Hbf - Duisburg Hbf",
       "stops": [
         {
           "id": "stop-1764767159730",
@@ -3071,6 +3071,83 @@
           "lat": 51.221859,
           "lon": 6.794208,
           "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/dhbf.mp3"
+        },
+        {
+          "id": "stop-1764790297767",
+          "name": "D-Wehrhahn",
+          "lat": 51.2298974,
+          "lon": 6.7983761,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/dhahn.mp3"
+        },
+        {
+          "id": "stop-1764790308549",
+          "name": "D-Zoo",
+          "lat": 51.2363131,
+          "lon": 6.7963572,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/dzoo.mp3"
+        },
+        {
+          "id": "stop-1764790309251",
+          "name": "D-Derendorf",
+          "lat": 51.247583,
+          "lon": 6.7952625,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/dderendorf.mp3"
+        },
+        {
+          "id": "stop-1764790309832",
+          "name": "D-Unterrath",
+          "lat": 51.27677638554394,
+          "lon": 6.787986248006291,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/dunterrath.mp3"
+        },
+        {
+          "id": "stop-1764790310317",
+          "name": "D-Flughafen",
+          "lat": 51.291169,
+          "lon": 6.78807,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/dflughafen.mp3"
+        },
+        {
+          "id": "stop-1764790310748",
+          "name": "Angermund",
+          "lat": 51.3319215,
+          "lon": 6.7872781,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/angermund.mp3"
+        },
+        {
+          "id": "stop-1764790311233",
+          "name": "Duisburg-Rahm",
+          "lat": 51.3507621,
+          "lon": 6.7864589,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/durahm.mp3"
+        },
+        {
+          "id": "stop-1764790311799",
+          "name": "DU-Großenbaum",
+          "lat": 51.3653821,
+          "lon": 6.7782425,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/dubaum.mp3"
+        },
+        {
+          "id": "stop-1764790312416",
+          "name": "DU-Buchholz",
+          "lat": 51.3837321,
+          "lon": 6.777143,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/dubuchholz.mp3"
+        },
+        {
+          "id": "stop-1764790312848",
+          "name": "DU-Schlenk",
+          "lat": 51.4011577,
+          "lon": 6.7728344,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/duschlenk.mp3"
+        },
+        {
+          "id": "stop-1764790841263",
+          "name": "Duisburg Hbf",
+          "lat": 51.429956,
+          "lon": 6.77731,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/duhbfost.mp3"
         }
       ],
       "courses": [
@@ -3468,6 +3545,91 @@
                     {
                       "id": "stop-1764769225873",
                       "departureTime": "22:45"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "stop-1764790841263",
+                      "departureTime": "23:34"
+                    },
+                    {
+                      "id": "stop-1764790312848",
+                      "departureTime": "23:46"
+                    },
+                    {
+                      "id": "stop-1764790312416",
+                      "departureTime": "23:56"
+                    },
+                    {
+                      "id": "stop-1764790311799",
+                      "departureTime": "00:00"
+                    },
+                    {
+                      "id": "stop-1764790311233",
+                      "departureTime": "00:04"
+                    },
+                    {
+                      "id": "stop-1764790310748",
+                      "departureTime": "00:07"
+                    },
+                    {
+                      "id": "stop-1764790310317",
+                      "departureTime": "00:23"
+                    },
+                    {
+                      "id": "stop-1764790309832",
+                      "departureTime": "00:30"
+                    },
+                    {
+                      "id": "stop-1764790309251",
+                      "departureTime": "00:38"
+                    },
+                    {
+                      "id": "stop-1764790308549",
+                      "departureTime": "00:43"
+                    },
+                    {
+                      "id": "stop-1764790297767",
+                      "departureTime": "00:48"
+                    },
+                    {
+                      "id": "stop-1764769225873",
+                      "departureTime": "00:56"
+                    },
+                    {
+                      "id": "stop-1764769225472",
+                      "departureTime": "01:01"
+                    },
+                    {
+                      "id": "stop-1764767162062",
+                      "departureTime": "01:06"
+                    },
+                    {
+                      "id": "stop-1764767161278",
+                      "departureTime": "01:11"
+                    },
+                    {
+                      "id": "stop-1764767161012",
+                      "departureTime": "01:16"
+                    },
+                    {
+                      "id": "stop-1764767160764",
+                      "departureTime": "01:36"
+                    },
+                    {
+                      "id": "stop-1764767160528",
+                      "departureTime": "01:41"
+                    },
+                    {
+                      "id": "stop-1764767160177",
+                      "departureTime": "01:53"
+                    },
+                    {
+                      "id": "stop-1764767159730",
+                      "departureTime": "01:59"
                     }
                   ],
                   "gpxUrl": ""
