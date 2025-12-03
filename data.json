@@ -398,7 +398,297 @@
           "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/domengede.mp3"
         }
       ],
-      "courses": []
+      "courses": [
+        {
+          "name": "11",
+          "tripGroups": [
+            {
+              "id": "tg-1764768545386",
+              "name": "05.12-06.12.25",
+              "trips": [
+                {
+                  "stops": [
+                    {
+                      "id": "herbf",
+                      "departureTime": "22:22"
+                    },
+                    {
+                      "id": "crhbf",
+                      "departureTime": "22:36"
+                    },
+                    {
+                      "id": "domengede",
+                      "departureTime": "22:51"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "domengede",
+                      "departureTime": "23:10"
+                    },
+                    {
+                      "id": "crhbf",
+                      "departureTime": "23:25"
+                    },
+                    {
+                      "id": "herbf",
+                      "departureTime": "23:39"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "herbf",
+                      "departureTime": "23:50"
+                    },
+                    {
+                      "id": "crhbf",
+                      "departureTime": "00:04"
+                    },
+                    {
+                      "id": "domengede",
+                      "departureTime": "00:19"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "domengede",
+                      "departureTime": "00:40"
+                    },
+                    {
+                      "id": "crhbf",
+                      "departureTime": "00:55"
+                    },
+                    {
+                      "id": "herbf",
+                      "departureTime": "01:09"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "herbf",
+                      "departureTime": "01:22"
+                    },
+                    {
+                      "id": "crhbf",
+                      "departureTime": "01:36"
+                    },
+                    {
+                      "id": "domengede",
+                      "departureTime": "01:51"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "domengede",
+                      "departureTime": "02:40"
+                    },
+                    {
+                      "id": "crhbf",
+                      "departureTime": "02:55"
+                    },
+                    {
+                      "id": "herbf",
+                      "departureTime": "03:09"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "herbf",
+                      "departureTime": "03:22"
+                    },
+                    {
+                      "id": "crhbf",
+                      "departureTime": "03:36"
+                    },
+                    {
+                      "id": "domengede",
+                      "departureTime": "03:51"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "domengede",
+                      "departureTime": "04:40"
+                    },
+                    {
+                      "id": "crhbf",
+                      "departureTime": "04:55"
+                    },
+                    {
+                      "id": "herbf",
+                      "departureTime": "05:09"
+                    }
+                  ],
+                  "gpxUrl": ""
+                }
+              ]
+            },
+            {
+              "id": "tg-1764768547994",
+              "name": "05.12-06.12.25",
+              "trips": [
+                {
+                  "stops": [
+                    {
+                      "id": "herbf",
+                      "departureTime": "22:22"
+                    },
+                    {
+                      "id": "crhbf",
+                      "departureTime": "22:36"
+                    },
+                    {
+                      "id": "domengede",
+                      "departureTime": "22:51"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "domengede",
+                      "departureTime": "23:10"
+                    },
+                    {
+                      "id": "crhbf",
+                      "departureTime": "23:25"
+                    },
+                    {
+                      "id": "herbf",
+                      "departureTime": "23:39"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "herbf",
+                      "departureTime": "23:50"
+                    },
+                    {
+                      "id": "crhbf",
+                      "departureTime": "00:04"
+                    },
+                    {
+                      "id": "domengede",
+                      "departureTime": "00:19"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "domengede",
+                      "departureTime": "00:40"
+                    },
+                    {
+                      "id": "crhbf",
+                      "departureTime": "00:55"
+                    },
+                    {
+                      "id": "herbf",
+                      "departureTime": "01:09"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "herbf",
+                      "departureTime": "01:22"
+                    },
+                    {
+                      "id": "crhbf",
+                      "departureTime": "01:36"
+                    },
+                    {
+                      "id": "domengede",
+                      "departureTime": "01:51"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "domengede",
+                      "departureTime": "02:40"
+                    },
+                    {
+                      "id": "crhbf",
+                      "departureTime": "02:55"
+                    },
+                    {
+                      "id": "herbf",
+                      "departureTime": "03:09"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "herbf",
+                      "departureTime": "03:22"
+                    },
+                    {
+                      "id": "crhbf",
+                      "departureTime": "03:36"
+                    },
+                    {
+                      "id": "domengede",
+                      "departureTime": "03:51"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "domengede",
+                      "departureTime": "04:40"
+                    },
+                    {
+                      "id": "crhbf",
+                      "departureTime": "04:55"
+                    },
+                    {
+                      "id": "herbf",
+                      "departureTime": "05:09"
+                    }
+                  ],
+                  "gpxUrl": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "s2doherne",
@@ -469,7 +759,183 @@
           "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/herhbf.mp3"
         }
       ],
-      "courses": []
+      "courses": [
+        {
+          "name": "1",
+          "tripGroups": [
+            {
+              "id": "tg-1764768211184",
+              "name": "04.12.25",
+              "trips": [
+                {
+                  "stops": [
+                    {
+                      "id": "dohbf",
+                      "departureTime": "20:56"
+                    },
+                    {
+                      "id": "dodorstfeld",
+                      "departureTime": "21:05"
+                    },
+                    {
+                      "id": "dowischlingen",
+                      "departureTime": "21:10"
+                    },
+                    {
+                      "id": "dohuckarde",
+                      "departureTime": "21:18"
+                    },
+                    {
+                      "id": "dowesterfilde",
+                      "departureTime": "21:27"
+                    },
+                    {
+                      "id": "donette",
+                      "departureTime": "21:32"
+                    },
+                    {
+                      "id": "domengede",
+                      "departureTime": "21:38"
+                    },
+                    {
+                      "id": "crhbf",
+                      "departureTime": "21:53"
+                    },
+                    {
+                      "id": "herbf",
+                      "departureTime": "22:07"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "herbf",
+                      "departureTime": "22:50"
+                    },
+                    {
+                      "id": "crhbf",
+                      "departureTime": "23:04"
+                    },
+                    {
+                      "id": "domengede",
+                      "departureTime": "23:19"
+                    },
+                    {
+                      "id": "donette",
+                      "departureTime": "23:25"
+                    },
+                    {
+                      "id": "dowesterfilde",
+                      "departureTime": "23:30"
+                    },
+                    {
+                      "id": "dohuckarde",
+                      "departureTime": "23:39"
+                    },
+                    {
+                      "id": "dowischlingen",
+                      "departureTime": "23:47"
+                    },
+                    {
+                      "id": "dodorstfeld",
+                      "departureTime": "23:52"
+                    },
+                    {
+                      "id": "dohbf",
+                      "departureTime": "00:01"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "dohbf",
+                      "departureTime": "00:25"
+                    },
+                    {
+                      "id": "dodorstfeld",
+                      "departureTime": "00:34"
+                    },
+                    {
+                      "id": "dowischlingen",
+                      "departureTime": "00:39"
+                    },
+                    {
+                      "id": "dohuckarde",
+                      "departureTime": "00:47"
+                    },
+                    {
+                      "id": "dowesterfilde",
+                      "departureTime": "00:56"
+                    },
+                    {
+                      "id": "donette",
+                      "departureTime": "01:01"
+                    },
+                    {
+                      "id": "domengede",
+                      "departureTime": "01:07"
+                    },
+                    {
+                      "id": "crhbf",
+                      "departureTime": "01:22"
+                    },
+                    {
+                      "id": "herbf",
+                      "departureTime": "01:36"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "herbf",
+                      "departureTime": "02:22"
+                    },
+                    {
+                      "id": "crhbf",
+                      "departureTime": "02:36"
+                    },
+                    {
+                      "id": "domengede",
+                      "departureTime": "02:51"
+                    },
+                    {
+                      "id": "donette",
+                      "departureTime": "02:57"
+                    },
+                    {
+                      "id": "dowesterfilde",
+                      "departureTime": "03:02"
+                    },
+                    {
+                      "id": "dohuckarde",
+                      "departureTime": "03:11"
+                    },
+                    {
+                      "id": "dowischlingen",
+                      "departureTime": "03:19"
+                    },
+                    {
+                      "id": "dodorstfeld",
+                      "departureTime": "03:24"
+                    },
+                    {
+                      "id": "dohbf",
+                      "departureTime": "03:33"
+                    }
+                  ],
+                  "gpxUrl": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "s6dunterrathe",
@@ -2533,6 +2999,446 @@
                   "gpxUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/refs/heads/main/gpx/RE14%20Essen%20Hbf.-Dorsten%20ZOB©FerhanK.gpx"
                 }
               ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "line-1764767085362",
+      "name": "S1",
+      "destination": "Solingen Hbf - Düsseldorf Hbf",
+      "stops": [
+        {
+          "id": "stop-1764767159730",
+          "name": "Solingen Hbf",
+          "lat": 51.159465,
+          "lon": 7.003647,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/sghbf.mp3"
+        },
+        {
+          "id": "stop-1764767160177",
+          "name": "Solingen-Vogelpark",
+          "lat": 51.167614,
+          "lon": 6.993572,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/sgvogelpark.mp3"
+        },
+        {
+          "id": "stop-1764767160528",
+          "name": "Hilden Süd",
+          "lat": 51.163154,
+          "lon": 6.940501,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/hildensued.mp3"
+        },
+        {
+          "id": "stop-1764767160764",
+          "name": "Hilden",
+          "lat": 51.167348,
+          "lon": 6.922682,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/hildemn.mp3"
+        },
+        {
+          "id": "stop-1764767161012",
+          "name": "Düsseldorf-Eller",
+          "lat": 51.198412,
+          "lon": 6.839009,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/deller.mp3"
+        },
+        {
+          "id": "stop-1764767161278",
+          "name": "D-Eller Mitte",
+          "lat": 51.20122779800107,
+          "lon": 6.837238187959656,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/dellermitte.mp3"
+        },
+        {
+          "id": "stop-1764767162062",
+          "name": "D-Oberbilk",
+          "lat": 51.208749,
+          "lon": 6.808459,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/doberbilk.mp3"
+        },
+        {
+          "id": "stop-1764769225472",
+          "name": "D-Volksgarten",
+          "lat": 51.211205145286435,
+          "lon": 6.791709268805306,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/dvolksgarten.mp3"
+        },
+        {
+          "id": "stop-1764769225873",
+          "name": "Düsseldorf Hbf",
+          "lat": 51.221859,
+          "lon": 6.794208,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/dhbf.mp3"
+        }
+      ],
+      "courses": [
+        {
+          "name": "35",
+          "tripGroups": [
+            {
+              "id": "tg-default",
+              "name": "11.12.-13.12.25",
+              "trips": [
+                {
+                  "stops": [
+                    {
+                      "id": "stop-1764767159730",
+                      "departureTime": "22:24"
+                    },
+                    {
+                      "id": "stop-1764767160177",
+                      "departureTime": "22:30"
+                    },
+                    {
+                      "id": "stop-1764767160528",
+                      "departureTime": "22:42"
+                    },
+                    {
+                      "id": "stop-1764767160764",
+                      "departureTime": "22:47"
+                    },
+                    {
+                      "id": "stop-1764767161012",
+                      "departureTime": "23:07"
+                    },
+                    {
+                      "id": "stop-1764767161278",
+                      "departureTime": "23:12"
+                    },
+                    {
+                      "id": "stop-1764767162062",
+                      "departureTime": "23:17"
+                    },
+                    {
+                      "id": "stop-1764769225472",
+                      "departureTime": "23:22"
+                    },
+                    {
+                      "id": "stop-1764769225873",
+                      "departureTime": "23:34"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "stop-1764769225873",
+                      "departureTime": "00:02"
+                    },
+                    {
+                      "id": "stop-1764769225472",
+                      "departureTime": "00:07"
+                    },
+                    {
+                      "id": "stop-1764767162062",
+                      "departureTime": "00:12"
+                    },
+                    {
+                      "id": "stop-1764767161278",
+                      "departureTime": "00:17"
+                    },
+                    {
+                      "id": "stop-1764767161012",
+                      "departureTime": "00:22"
+                    },
+                    {
+                      "id": "stop-1764767160764",
+                      "departureTime": "00:42"
+                    },
+                    {
+                      "id": "stop-1764767160528",
+                      "departureTime": "00:47"
+                    },
+                    {
+                      "id": "stop-1764767160177",
+                      "departureTime": "00:59"
+                    },
+                    {
+                      "id": "stop-1764767159730",
+                      "departureTime": "01:05"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "stop-1764767159730",
+                      "departureTime": "02:24"
+                    },
+                    {
+                      "id": "stop-1764767160177",
+                      "departureTime": "02:30"
+                    },
+                    {
+                      "id": "stop-1764767160528",
+                      "departureTime": "02:42"
+                    },
+                    {
+                      "id": "stop-1764767160764",
+                      "departureTime": "02:47"
+                    },
+                    {
+                      "id": "stop-1764767161012",
+                      "departureTime": "03:07"
+                    },
+                    {
+                      "id": "stop-1764767161278",
+                      "departureTime": "03:12"
+                    },
+                    {
+                      "id": "stop-1764767162062",
+                      "departureTime": "03:17"
+                    },
+                    {
+                      "id": "stop-1764769225472",
+                      "departureTime": "03:22"
+                    },
+                    {
+                      "id": "stop-1764769225873",
+                      "departureTime": "03:34"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "stop-1764769225873",
+                      "departureTime": "05:32"
+                    },
+                    {
+                      "id": "stop-1764769225472",
+                      "departureTime": "05:37"
+                    },
+                    {
+                      "id": "stop-1764767162062",
+                      "departureTime": "05:42"
+                    },
+                    {
+                      "id": "stop-1764767161278",
+                      "departureTime": "05:47"
+                    },
+                    {
+                      "id": "stop-1764767161012",
+                      "departureTime": "05:52"
+                    },
+                    {
+                      "id": "stop-1764767160764",
+                      "departureTime": "06:12"
+                    },
+                    {
+                      "id": "stop-1764767160528",
+                      "departureTime": "06:17"
+                    },
+                    {
+                      "id": "stop-1764767160177",
+                      "departureTime": "06:29"
+                    },
+                    {
+                      "id": "stop-1764767159730",
+                      "departureTime": "06:35"
+                    }
+                  ],
+                  "gpxUrl": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "44",
+          "tripGroups": [
+            {
+              "id": "tg-1764770550777",
+              "name": "11.12.-13.12.25",
+              "trips": [
+                {
+                  "stops": [
+                    {
+                      "id": "stop-1764767159730",
+                      "departureTime": "22:58"
+                    },
+                    {
+                      "id": "stop-1764767160177",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764767160528",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764767160764",
+                      "departureTime": "23:13"
+                    },
+                    {
+                      "id": "stop-1764767161012",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764767161278",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764767162062",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764769225472",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764769225873",
+                      "departureTime": "23:33"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "stop-1764769225873",
+                      "departureTime": "23:45"
+                    },
+                    {
+                      "id": "stop-1764769225472",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764767162062",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764767161278",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764767161012",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764767160764",
+                      "departureTime": "00:05"
+                    },
+                    {
+                      "id": "stop-1764767160528",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764767160177",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764767159730",
+                      "departureTime": "00:20"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "stop-1764767159730",
+                      "departureTime": "01:28"
+                    },
+                    {
+                      "id": "stop-1764767160177",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764767160528",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764767160764",
+                      "departureTime": "01:43"
+                    },
+                    {
+                      "id": "stop-1764767161012",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764767161278",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764767162062",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764769225472",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764769225873",
+                      "departureTime": "02:03"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "stop-1764767159730",
+                      "departureTime": "03:20"
+                    },
+                    {
+                      "id": "stop-1764767160177",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764767160528",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764767160764",
+                      "departureTime": "03:05"
+                    },
+                    {
+                      "id": "stop-1764767161012",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764767161278",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764767162062",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764769225472",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764769225873",
+                      "departureTime": "02:45"
+                    }
+                  ],
+                  "gpxUrl": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "line-1764769135423",
+      "name": "Neue Linie",
+      "destination": "Zielort",
+      "stops": [],
+      "courses": [
+        {
+          "name": "1",
+          "tripGroups": [
+            {
+              "id": "tg-default",
+              "name": "Mo-Fr",
+              "trips": []
             }
           ]
         }
