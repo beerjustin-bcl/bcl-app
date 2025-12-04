@@ -3642,17 +3642,326 @@
     },
     {
       "id": "line-1764769135423",
-      "name": "Neue Linie",
-      "destination": "Zielort",
-      "stops": [],
+      "name": "RB32",
+      "destination": "Dortmund Hbf - Duisburg Hbf",
+      "stops": [
+        {
+          "id": "stop-1764874600376",
+          "name": "Dortmund Hbf",
+          "lat": 51.518988,
+          "lon": 7.459451,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/dohbf.mp3"
+        },
+        {
+          "id": "stop-1764874602808",
+          "name": "Dortmund-Mengede",
+          "lat": 51.57014,
+          "lon": 7.377128,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/domengede.mp3"
+        },
+        {
+          "id": "stop-1764874603842",
+          "name": "Castrop-Rauxel Hbf",
+          "lat": 51.573244,
+          "lon": 7.305216,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/casrauxhbf.mp3"
+        },
+        {
+          "id": "stop-1764874604309",
+          "name": "Herne Bf",
+          "lat": 51.544486,
+          "lon": 7.217506,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/herhbf.mp3"
+        },
+        {
+          "id": "stop-1764874604759",
+          "name": "Wanne-Eickel Hbf",
+          "lat": 51.5320128,
+          "lon": 7.1658563,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/wanneeickelhbf.mp3"
+        },
+        {
+          "id": "stop-1764874605174",
+          "name": "Gelsenkirchen Hbf",
+          "lat": 51.5058493,
+          "lon": 7.1000409,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/gehbf.mp3"
+        },
+        {
+          "id": "stop-1764874605557",
+          "name": "Essen Zollverein Nord",
+          "lat": 51.49333080181407,
+          "lon": 7.04657160804274,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/ezoll.mp3"
+        },
+        {
+          "id": "stop-1764874605992",
+          "name": "E-Altenessen",
+          "lat": 51.485093,
+          "lon": 7.007637,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/ealtene.mp3"
+        },
+        {
+          "id": "stop-1764874606374",
+          "name": "E-Bergeborbeck",
+          "lat": 51.478778,
+          "lon": 6.976965,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/eberge.mp3"
+        },
+        {
+          "id": "stop-1764874606758",
+          "name": "E-Dellwig",
+          "lat": 51.487814,
+          "lon": 6.925719,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/edellwig.mp3"
+        },
+        {
+          "id": "stop-1764874607208",
+          "name": "Oberhausen Hbf",
+          "lat": 51.474852,
+          "lon": 6.8495203,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/oberhausenhbf.mp3"
+        },
+        {
+          "id": "stop-1764874692608",
+          "name": "Duisburg Hbf",
+          "lat": 51.429956,
+          "lon": 6.77731,
+          "announcementUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/main/sounds/duhbfost.mp3"
+        }
+      ],
       "courses": [
         {
-          "name": "1",
+          "name": "13",
           "tripGroups": [
             {
               "id": "tg-default",
-              "name": "Mo-Fr",
-              "trips": []
+              "name": "04.12.-06.12.25",
+              "trips": [
+                {
+                  "stops": [
+                    {
+                      "id": "stop-1764874600376",
+                      "departureTime": "21:33"
+                    },
+                    {
+                      "id": "stop-1764874602808",
+                      "departureTime": "21:57"
+                    },
+                    {
+                      "id": "stop-1764874603842",
+                      "departureTime": "22:12"
+                    },
+                    {
+                      "id": "stop-1764874604309",
+                      "departureTime": "22:27"
+                    },
+                    {
+                      "id": "stop-1764874604759",
+                      "departureTime": "22:40"
+                    },
+                    {
+                      "id": "stop-1764874605174",
+                      "departureTime": "22:58"
+                    },
+                    {
+                      "id": "stop-1764874605557",
+                      "departureTime": "23:12"
+                    },
+                    {
+                      "id": "stop-1764874605992",
+                      "departureTime": "23:22"
+                    },
+                    {
+                      "id": "stop-1764874606374",
+                      "departureTime": "23:31"
+                    },
+                    {
+                      "id": "stop-1764874606758",
+                      "departureTime": "23:43"
+                    },
+                    {
+                      "id": "stop-1764874607208",
+                      "departureTime": "00:01"
+                    },
+                    {
+                      "id": "stop-1764874692608",
+                      "departureTime": "00:21"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "stop-1764874692608",
+                      "departureTime": "00:42"
+                    },
+                    {
+                      "id": "stop-1764874607208",
+                      "departureTime": "01:02"
+                    },
+                    {
+                      "id": "stop-1764874606758",
+                      "departureTime": "01:20"
+                    },
+                    {
+                      "id": "stop-1764874606374",
+                      "departureTime": "01:32"
+                    },
+                    {
+                      "id": "stop-1764874605992",
+                      "departureTime": "01:41"
+                    },
+                    {
+                      "id": "stop-1764874605557",
+                      "departureTime": "01:51"
+                    },
+                    {
+                      "id": "stop-1764874605174",
+                      "departureTime": "02:05"
+                    },
+                    {
+                      "id": "stop-1764874604759",
+                      "departureTime": "02:23"
+                    },
+                    {
+                      "id": "stop-1764874604309",
+                      "departureTime": "02:36"
+                    },
+                    {
+                      "id": "stop-1764874603842",
+                      "departureTime": "02:51"
+                    },
+                    {
+                      "id": "stop-1764874602808",
+                      "departureTime": "03:06"
+                    },
+                    {
+                      "id": "stop-1764874600376",
+                      "departureTime": "03:30"
+                    }
+                  ],
+                  "gpxUrl": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3",
+          "tripGroups": [
+            {
+              "id": "tg-1764875477108",
+              "name": "Standard",
+              "trips": [
+                {
+                  "stops": [
+                    {
+                      "id": "stop-1764874692608",
+                      "departureTime": "23:42"
+                    },
+                    {
+                      "id": "stop-1764874607208",
+                      "departureTime": "00:02"
+                    },
+                    {
+                      "id": "stop-1764874606758",
+                      "departureTime": "00:20"
+                    },
+                    {
+                      "id": "stop-1764874606374",
+                      "departureTime": "00:32"
+                    },
+                    {
+                      "id": "stop-1764874605992",
+                      "departureTime": "00:41"
+                    },
+                    {
+                      "id": "stop-1764874605557",
+                      "departureTime": "00:51"
+                    },
+                    {
+                      "id": "stop-1764874605174",
+                      "departureTime": "01:05"
+                    },
+                    {
+                      "id": "stop-1764874604759",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764874604309",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764874603842",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764874602808",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764874600376",
+                      "departureTime": ""
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "stop-1764874600376",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764874602808",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764874603842",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764874604309",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764874604759",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "stop-1764874605174",
+                      "departureTime": "01:12"
+                    },
+                    {
+                      "id": "stop-1764874605557",
+                      "departureTime": "01:26"
+                    },
+                    {
+                      "id": "stop-1764874605992",
+                      "departureTime": "01:36"
+                    },
+                    {
+                      "id": "stop-1764874606374",
+                      "departureTime": "01:45"
+                    },
+                    {
+                      "id": "stop-1764874606758",
+                      "departureTime": "01:57"
+                    },
+                    {
+                      "id": "stop-1764874607208",
+                      "departureTime": "02:15"
+                    },
+                    {
+                      "id": "stop-1764874692608",
+                      "departureTime": "02:35"
+                    }
+                  ],
+                  "gpxUrl": ""
+                }
+              ]
             }
           ]
         }
