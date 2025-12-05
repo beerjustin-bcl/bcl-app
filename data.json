@@ -71,7 +71,267 @@
         }
       ],
       "gpxUrl": "https://raw.githubusercontent.com/beerjustin-bcl/bcl-app/refs/heads/main/gpx/ELTENSPERRUNG_RE%2019%20Oberhausen%20Hauptbahnhof-Arnheim%20Centraal.gpx",
-      "courses": []
+      "courses": [
+        {
+          "name": "31",
+          "tripGroups": [
+            {
+              "id": "tg-1764953218322",
+              "name": "06.12.-07.12.25",
+              "trips": [
+                {
+                  "stops": [
+                    {
+                      "id": "obhbf",
+                      "departureTime": "05:00"
+                    },
+                    {
+                      "id": "wesel",
+                      "departureTime": "05:47"
+                    },
+                    {
+                      "id": "emmerich",
+                      "departureTime": "06:34"
+                    },
+                    {
+                      "id": "emmerichelten",
+                      "departureTime": "06:47"
+                    },
+                    {
+                      "id": "zevenaar",
+                      "departureTime": "06:59"
+                    },
+                    {
+                      "id": "arnhem",
+                      "departureTime": "07:29"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "arnhem",
+                      "departureTime": "08:29"
+                    },
+                    {
+                      "id": "zevenaar",
+                      "departureTime": "08:52"
+                    },
+                    {
+                      "id": "emmerichelten",
+                      "departureTime": "09:04"
+                    },
+                    {
+                      "id": "emmerich",
+                      "departureTime": "09:26"
+                    },
+                    {
+                      "id": "wesel",
+                      "departureTime": "10:13"
+                    },
+                    {
+                      "id": "obhbf",
+                      "departureTime": "10:58"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "obhbf",
+                      "departureTime": "12:00"
+                    },
+                    {
+                      "id": "wesel",
+                      "departureTime": "12:47"
+                    },
+                    {
+                      "id": "emmerich",
+                      "departureTime": "13:34"
+                    },
+                    {
+                      "id": "emmerichelten",
+                      "departureTime": "13:47"
+                    },
+                    {
+                      "id": "zevenaar",
+                      "departureTime": "13:59"
+                    },
+                    {
+                      "id": "arnhem",
+                      "departureTime": "14:29"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "arnhem",
+                      "departureTime": "15:29"
+                    },
+                    {
+                      "id": "zevenaar",
+                      "departureTime": "15:52"
+                    },
+                    {
+                      "id": "emmerichelten",
+                      "departureTime": "16:04"
+                    },
+                    {
+                      "id": "emmerich",
+                      "departureTime": "16:26"
+                    },
+                    {
+                      "id": "wesel",
+                      "departureTime": "17:13"
+                    },
+                    {
+                      "id": "obhbf",
+                      "departureTime": "17:58"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "obhbf",
+                      "departureTime": "19:00"
+                    },
+                    {
+                      "id": "wesel",
+                      "departureTime": "19:47"
+                    },
+                    {
+                      "id": "emmerich",
+                      "departureTime": "20:34"
+                    },
+                    {
+                      "id": "emmerichelten",
+                      "departureTime": "20:47"
+                    },
+                    {
+                      "id": "zevenaar",
+                      "departureTime": "20:59"
+                    },
+                    {
+                      "id": "arnhem",
+                      "departureTime": "21:29"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "arnhem",
+                      "departureTime": "22:45"
+                    },
+                    {
+                      "id": "zevenaar",
+                      "departureTime": "23:07"
+                    },
+                    {
+                      "id": "emmerichelten",
+                      "departureTime": "23:19"
+                    },
+                    {
+                      "id": "emmerich",
+                      "departureTime": "23:37"
+                    },
+                    {
+                      "id": "wesel",
+                      "departureTime": "00:24"
+                    },
+                    {
+                      "id": "obhbf",
+                      "departureTime": "01:01"
+                    }
+                  ],
+                  "gpxUrl": ""
+                }
+              ]
+            },
+            {
+              "id": "tg-1764953440657",
+              "name": "05.12.25",
+              "trips": [
+                {
+                  "stops": [
+                    {
+                      "id": "obhbf",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "wesel",
+                      "departureTime": ""
+                    },
+                    {
+                      "id": "emmerich",
+                      "departureTime": "20:56"
+                    },
+                    {
+                      "id": "emmerichelten",
+                      "departureTime": "21:07"
+                    },
+                    {
+                      "id": "zevenaar",
+                      "departureTime": "21:19"
+                    },
+                    {
+                      "id": "arnhem",
+                      "departureTime": "21:49"
+                    }
+                  ],
+                  "gpxUrl": ""
+                },
+                {
+                  "stops": [
+                    {
+                      "id": "arnhem",
+                      "departureTime": "22:45"
+                    },
+                    {
+                      "id": "zevenaar",
+                      "departureTime": "23:07"
+                    },
+                    {
+                      "id": "emmerichelten",
+                      "departureTime": "23:19"
+                    },
+                    {
+                      "id": "emmerich",
+                      "departureTime": "23:37"
+                    },
+                    {
+                      "id": "wesel",
+                      "departureTime": "00:24"
+                    },
+                    {
+                      "id": "obhbf",
+                      "departureTime": "01:01"
+                    }
+                  ],
+                  "gpxUrl": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2",
+          "tripGroups": [
+            {
+              "id": "tg-1764953447188",
+              "name": "Standard",
+              "trips": []
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "xnl",
